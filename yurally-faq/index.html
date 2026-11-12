@@ -117,25 +117,50 @@ function selectTopic() {
 }
 addEventListener('hashchange', selectTopic);
 selectTopic();
+const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
 for (const card of document.querySelectorAll('details')) {
-  let animation;
+  const summary = card.querySelector('summary');
+  const answer = card.querySelector('.answer');
+  let slide;
+  let fade;
   let opening = card.open;
-  card.querySelector('summary').addEventListener('click', event => {
-    if (!card.animate || matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  summary.addEventListener('click', event => {
+    if (!card.animate || reduceMotion.matches) return;
     event.preventDefault();
-    const start = card.getBoundingClientRect().height;
-    opening = animation ? !opening : !card.open;
-    animation?.cancel();
+
+    const startHeight = card.getBoundingClientRect().height;
+    const startOpacity = slide ? Number(getComputedStyle(answer).opacity) : Number(card.open);
+    opening = slide ? !opening : !card.open;
+    slide?.cancel();
+    fade?.cancel();
+
+    // Measure the natural height at the destination before starting the slide.
     card.open = opening;
-    const end = card.getBoundingClientRect().height;
+    const endHeight = card.getBoundingClientRect().height;
     card.open = true;
-    animation = card.animate([{height: start + 'px'}, {height: end + 'px'}],
-      {duration: 280, easing: 'ease', fill: 'forwards'});
-    animation.onfinish = () => {
+
+    const timing = { duration: 520, easing: 'cubic-bezier(.35, 0, .25, 1)', fill: 'both' };
+    slide = card.animate(
+      [{ height: startHeight + 'px' }, { height: endHeight + 'px' }],
+      timing
+    );
+    fade = answer.animate([{ opacity: startOpacity }, { opacity: Number(opening) }], timing);
+
+    slide.onfinish = () => {
       card.open = opening;
-      animation.cancel();
-      animation = null;
+      slide.cancel();
+      fade.cancel();
+      slide = fade = undefined;
     };
+  });
+
+  reduceMotion.addEventListener('change', () => {
+    if (!reduceMotion.matches || !slide) return;
+    card.open = opening;
+    slide.cancel();
+    fade.cancel();
+    slide = fade = undefined;
   });
 }
 </script></html>
