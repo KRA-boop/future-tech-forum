@@ -443,16 +443,39 @@ function selectTopic() {
 addEventListener('hashchange', selectTopic);
 selectTopic();
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
-for (const card of document.querySelectorAll('details')) {
+const cards = [...document.querySelectorAll('main details')];
+const delayedCard = cards.at(-1);
+for (const card of cards) {
   const summary = card.querySelector('summary');
   const answer = card.querySelector('.answer');
   let slide;
   let fade;
   let opening = card.open;
 
+  let pendingOpen;
   summary.addEventListener('click', event => {
+    if (pendingOpen !== undefined) {
+      event.preventDefault();
+      clearTimeout(pendingOpen);
+      pendingOpen = undefined;
+      return;
+    }
+    if (card === delayedCard && !slide && !card.open) {
+      event.preventDefault();
+      pendingOpen = setTimeout(() => {
+        pendingOpen = undefined;
+        if (card.closest('section')?.hidden) return;
+        if (!card.animate || reduceMotion.matches) card.open = true;
+        else animateToggle();
+      }, 30000);
+      return;
+    }
     if (!card.animate || reduceMotion.matches) return;
     event.preventDefault();
+    animateToggle();
+  });
+
+  function animateToggle() {
 
     const startHeight = card.getBoundingClientRect().height;
     const startOpacity = slide ? Number(getComputedStyle(answer).opacity) : Number(card.open);
@@ -478,7 +501,7 @@ for (const card of document.querySelectorAll('details')) {
       fade.cancel();
       slide = fade = undefined;
     };
-  });
+  }
 
   reduceMotion.addEventListener('change', () => {
     if (!reduceMotion.matches || !slide) return;
