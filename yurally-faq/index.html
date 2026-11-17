@@ -493,7 +493,22 @@ for (const card of cards) {
       [{ height: startHeight + 'px' }, { height: endHeight + 'px' }],
       timing
     );
-    fade = answer.animate([{ opacity: startOpacity }, { opacity: Number(opening) }], timing);
+    const specialOpening = card === delayedCard && opening;
+    fade = answer.animate(
+      specialOpening
+        ? [{ opacity: startOpacity, transform: 'translateY(10px)' },
+           { opacity: 1, transform: 'translateY(0)' }]
+        : [{ opacity: startOpacity }, { opacity: Number(opening) }],
+      timing
+    );
+    if (specialOpening) {
+      card.animate(
+        [{ boxShadow: '0 0 0 0 rgba(141, 226, 212, .55)' },
+         { boxShadow: '0 0 0 5px rgba(141, 226, 212, .22)', offset: .35 },
+         { boxShadow: '0 0 0 10px rgba(141, 226, 212, 0)' }],
+        { duration: 780, easing: 'ease-out' }
+      );
+    }
 
     slide.onfinish = () => {
       card.open = opening;
