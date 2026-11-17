@@ -462,6 +462,8 @@ for (const card of cards) {
 
     const startHeight = card.getBoundingClientRect().height;
     const startOpacity = slide ? Number(getComputedStyle(answer).opacity) : Number(card.open);
+    const special = card === delayedCard;
+    const startTransform = slide ? getComputedStyle(answer).transform : (card.open ? 'translateY(0)' : 'translateY(28px)');
     opening = slide ? !opening : !card.open;
     slide?.cancel();
     fade?.cancel();
@@ -471,27 +473,18 @@ for (const card of cards) {
     const endHeight = card.getBoundingClientRect().height;
     card.open = true;
 
-    const timing = { duration: 520, easing: 'cubic-bezier(.35, 0, .25, 1)', fill: 'both' };
+    const timing = { duration: special ? 680 : 520, easing: 'cubic-bezier(.35, 0, .25, 1)', fill: 'both' };
     slide = card.animate(
       [{ height: startHeight + 'px' }, { height: endHeight + 'px' }],
       timing
     );
-    const specialOpening = card === delayedCard && opening;
     fade = answer.animate(
-      specialOpening
-        ? [{ opacity: startOpacity, transform: 'translateY(24px)' },
-           { opacity: 1, transform: 'translateY(0)' }]
+      special
+        ? [{ opacity: startOpacity, transform: startTransform },
+           { opacity: Number(opening), transform: opening ? 'translateY(0)' : 'translateY(28px)' }]
         : [{ opacity: startOpacity }, { opacity: Number(opening) }],
       timing
     );
-    if (specialOpening) {
-      card.animate(
-        [{ boxShadow: '0 0 0 2px rgba(141, 226, 212, .90)' },
-         { boxShadow: '0 0 0 6px rgba(141, 226, 212, .80)', offset: .48 },
-         { boxShadow: '0 0 0 14px rgba(141, 226, 212, 0)' }],
-        { duration: 1150, easing: 'ease-out' }
-      );
-    }
 
     slide.onfinish = () => {
       card.open = opening;
