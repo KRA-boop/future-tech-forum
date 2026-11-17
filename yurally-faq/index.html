@@ -452,24 +452,7 @@ for (const card of cards) {
   let fade;
   let opening = card.open;
 
-  let pendingOpen;
   summary.addEventListener('click', event => {
-    if (pendingOpen !== undefined) {
-      event.preventDefault();
-      clearTimeout(pendingOpen);
-      pendingOpen = undefined;
-      return;
-    }
-    if (card === delayedCard && !slide && !card.open) {
-      event.preventDefault();
-      pendingOpen = setTimeout(() => {
-        pendingOpen = undefined;
-        if (card.closest('section')?.hidden) return;
-        if (!card.animate || reduceMotion.matches) card.open = true;
-        else animateToggle();
-      }, 5000);
-      return;
-    }
     if (!card.animate || reduceMotion.matches) return;
     event.preventDefault();
     animateToggle();
