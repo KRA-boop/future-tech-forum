@@ -467,7 +467,7 @@ for (const card of cards) {
         if (card.closest('section')?.hidden) return;
         if (!card.animate || reduceMotion.matches) card.open = true;
         else animateToggle();
-      }, 30000);
+      }, 10000);
       return;
     }
     if (!card.animate || reduceMotion.matches) return;
