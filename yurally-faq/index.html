@@ -444,7 +444,7 @@ addEventListener('hashchange', selectTopic);
 selectTopic();
 const reduceMotion = matchMedia('(prefers-reduced-motion: reduce)');
 const cards = [...document.querySelectorAll('main details')];
-const delayedCard = cards.at(-1);
+const finalCard = cards.at(-1);
 for (const card of cards) {
   const summary = card.querySelector('summary');
   const answer = card.querySelector('.answer');
@@ -462,8 +462,10 @@ for (const card of cards) {
 
     const startHeight = card.getBoundingClientRect().height;
     const startOpacity = slide ? Number(getComputedStyle(answer).opacity) : Number(card.open);
-    const special = card === delayedCard;
-    const startTransform = slide ? getComputedStyle(answer).transform : (card.open ? 'translateY(0)' : 'translateY(28px)');
+    const special = card === finalCard;
+    const shown = 'inset(0 0 0 0)';
+    const hidden = 'inset(0 100% 0 0)';
+    const startClip = slide ? getComputedStyle(answer).clipPath : (card.open ? shown : hidden);
     opening = slide ? !opening : !card.open;
     slide?.cancel();
     fade?.cancel();
@@ -480,8 +482,8 @@ for (const card of cards) {
     );
     fade = answer.animate(
       special
-        ? [{ opacity: startOpacity, transform: startTransform },
-           { opacity: Number(opening), transform: opening ? 'translateY(0)' : 'translateY(28px)' }]
+        ? [{ opacity: startOpacity, clipPath: startClip },
+           { opacity: Number(opening), clipPath: opening ? shown : hidden }]
         : [{ opacity: startOpacity }, { opacity: Number(opening) }],
       timing
     );
