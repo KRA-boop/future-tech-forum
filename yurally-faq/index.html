@@ -479,17 +479,17 @@ for (const card of cards) {
     const specialOpening = card === delayedCard && opening;
     fade = answer.animate(
       specialOpening
-        ? [{ opacity: startOpacity, transform: 'translateY(10px)' },
+        ? [{ opacity: startOpacity, transform: 'translateY(24px)' },
            { opacity: 1, transform: 'translateY(0)' }]
         : [{ opacity: startOpacity }, { opacity: Number(opening) }],
       timing
     );
     if (specialOpening) {
       card.animate(
-        [{ boxShadow: '0 0 0 0 rgba(141, 226, 212, .55)' },
-         { boxShadow: '0 0 0 5px rgba(141, 226, 212, .22)', offset: .35 },
-         { boxShadow: '0 0 0 10px rgba(141, 226, 212, 0)' }],
-        { duration: 780, easing: 'ease-out' }
+        [{ boxShadow: '0 0 0 2px rgba(141, 226, 212, .90)' },
+         { boxShadow: '0 0 0 6px rgba(141, 226, 212, .80)', offset: .48 },
+         { boxShadow: '0 0 0 14px rgba(141, 226, 212, 0)' }],
+        { duration: 1150, easing: 'ease-out' }
       );
     }
 
