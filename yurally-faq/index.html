@@ -450,6 +450,7 @@ for (const card of cards) {
   const answer = card.querySelector('.answer');
   let slide;
   let fade;
+  let glow;
   let opening = card.open;
 
   summary.addEventListener('click', event => {
@@ -487,6 +488,15 @@ for (const card of cards) {
         : [{ opacity: startOpacity }, { opacity: Number(opening) }],
       timing
     );
+
+    if (special) {
+      glow?.cancel();
+      glow = card.animate([
+        { boxShadow: '0 0 0 2px rgba(255, 198, 75, .85)' },
+        { boxShadow: '0 0 0 6px rgba(255, 198, 75, 1)', offset: .35 },
+        { boxShadow: '0 0 0 10px rgba(255, 198, 75, 0)' }
+      ], { duration: timing.duration, easing: 'ease-out' });
+    }
 
     slide.onfinish = () => {
       card.open = opening;
