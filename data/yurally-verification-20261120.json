@@ -1,0 +1,2844 @@
+{
+  "verified_at": "2026-11-20T07:39:05.883Z",
+  "language_counts": {
+    "zh": 49,
+    "en": 49,
+    "ja": 49,
+    "ko": 49
+  },
+  "course_animation_checks": {
+    "verifiedAt": "2026-11-20T07:39:05.883Z",
+    "site": "https://kra-boop.github.io/future-tech-forum/yurally-courses/",
+    "total": 196,
+    "passed": 196,
+    "failed": [],
+    "outcomes": [
+      {
+        "lang": "zh",
+        "slug": "singles-shot-pattern-reading",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "turn-match-video-into-drill",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "compare-shuttle-speed",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "score-pressure-decision-drill",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "rally-tagging-and-error-types",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "block-and-counterattack",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "feather-vs-nylon-shuttle",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "shoe-fit-and-lacing-test",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "grip-wrap-and-fit",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "deep-backhand-corner-recovery",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "doubles-defense-to-offense",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "drive-defense-changing-tempo",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "four-week-badminton-practice-plan",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "body-smash-defense",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "forehand-and-cross-lifts",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "forehand-backhand-net-shot",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "forehand-clear-fundamentals",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "six-corner-footwork",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "racket-face-soft-touch",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "forehand-backhand-grip-switch",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "smash-targets-and-follow-up",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "drive-body-to-open-space",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "singles-build-open-court",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "singles-high-serve",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "defensive-clear-recovery",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "fast-slow-drop-choice",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "net-kill-or-net-shot",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "rear-attack-front-intercept",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "smash-block-defense-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "defensive-lift-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "flat-drive-defense-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "attacking-flat-drive",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "smash-placement-practice",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "net-kill-timing-control",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "drop-shot-placement-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "match-observation-notebook",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "backhand-short-serve-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "racket-testing-checklist",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "badminton-kit-care-routine",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "doubles-first-three-shots",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "doubles-rotation-tactics",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "effective-practice-session",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "net-lunge-control-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "badminton-scoring-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "serve-return-position",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "badminton-shoes-care",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "string-tension-guide",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "badminton-racket-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "turn-match-video-into-drill",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "turn-match-video-into-drill",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "turn-match-video-into-drill",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "zh",
+        "slug": "split-step-footwork",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "compare-shuttle-speed",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "singles-shot-pattern-reading",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "shoe-fit-and-lacing-test",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "score-pressure-decision-drill",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "block-and-counterattack",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "deep-backhand-corner-recovery",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "rally-tagging-and-error-types",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "feather-vs-nylon-shuttle",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "drive-defense-changing-tempo",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "grip-wrap-and-fit",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "doubles-defense-to-offense",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "body-smash-defense",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "forehand-clear-fundamentals",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "forehand-and-cross-lifts",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "forehand-backhand-net-shot",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "four-week-badminton-practice-plan",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "racket-face-soft-touch",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "forehand-backhand-grip-switch",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "singles-build-open-court",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "six-corner-footwork",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "smash-targets-and-follow-up",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "net-kill-or-net-shot",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "singles-high-serve",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "drive-body-to-open-space",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "rear-attack-front-intercept",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "fast-slow-drop-choice",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "defensive-clear-recovery",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "flat-drive-defense-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "attacking-flat-drive",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "defensive-lift-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "smash-block-defense-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "drop-shot-placement-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "smash-placement-practice",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "doubles-first-three-shots",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "match-observation-notebook",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "net-kill-timing-control",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "backhand-short-serve-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "badminton-kit-care-routine",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "racket-testing-checklist",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "net-lunge-control-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "doubles-rotation-tactics",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "string-tension-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "badminton-scoring-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "effective-practice-session",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "badminton-shoes-care",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "badminton-racket-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "serve-return-position",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "en",
+        "slug": "split-step-footwork",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "shoe-fit-and-lacing-test",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "score-pressure-decision-drill",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "compare-shuttle-speed",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "singles-shot-pattern-reading",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "rally-tagging-and-error-types",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "block-and-counterattack",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "feather-vs-nylon-shuttle",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "deep-backhand-corner-recovery",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "doubles-defense-to-offense",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "body-smash-defense",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "grip-wrap-and-fit",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "drive-defense-changing-tempo",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "forehand-clear-fundamentals",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "forehand-and-cross-lifts",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "forehand-backhand-net-shot",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "four-week-badminton-practice-plan",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "racket-face-soft-touch",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "singles-build-open-court",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "forehand-backhand-grip-switch",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "six-corner-footwork",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "singles-high-serve",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "smash-targets-and-follow-up",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "drive-body-to-open-space",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "net-kill-or-net-shot",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "rear-attack-front-intercept",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "defensive-clear-recovery",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "flat-drive-defense-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "fast-slow-drop-choice",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "defensive-lift-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "drop-shot-placement-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "smash-block-defense-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "attacking-flat-drive",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "net-kill-timing-control",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "match-observation-notebook",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "doubles-first-three-shots",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "smash-placement-practice",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "badminton-kit-care-routine",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "net-lunge-control-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "backhand-short-serve-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "racket-testing-checklist",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "effective-practice-session",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "string-tension-guide",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "doubles-rotation-tactics",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "badminton-scoring-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "badminton-shoes-care",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "serve-return-position",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "split-step-footwork",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ja",
+        "slug": "badminton-racket-guide",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "score-pressure-decision-drill",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "shoe-fit-and-lacing-test",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "singles-shot-pattern-reading",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "compare-shuttle-speed",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "feather-vs-nylon-shuttle",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "deep-backhand-corner-recovery",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "rally-tagging-and-error-types",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "block-and-counterattack",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "drive-defense-changing-tempo",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "grip-wrap-and-fit",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "doubles-defense-to-offense",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "body-smash-defense",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "forehand-backhand-net-shot",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "forehand-clear-fundamentals",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "four-week-badminton-practice-plan",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "forehand-and-cross-lifts",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "racket-face-soft-touch",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "forehand-backhand-grip-switch",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "six-corner-footwork",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "singles-build-open-court",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "singles-high-serve",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "net-kill-or-net-shot",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "drive-body-to-open-space",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "smash-targets-and-follow-up",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "rear-attack-front-intercept",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "defensive-clear-recovery",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "flat-drive-defense-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "fast-slow-drop-choice",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "defensive-lift-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "attacking-flat-drive",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "smash-block-defense-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "drop-shot-placement-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "net-kill-timing-control",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "match-observation-notebook",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "smash-placement-practice",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "doubles-first-three-shots",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "badminton-kit-care-routine",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "net-lunge-control-lesson",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "backhand-short-serve-lesson",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "racket-testing-checklist",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "effective-practice-session",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "doubles-rotation-tactics",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "string-tension-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "badminton-scoring-guide",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "badminton-shoes-care",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "badminton-racket-guide",
+        "viewport": 1200,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "serve-return-position",
+        "viewport": 390,
+        "checks": 23
+      },
+      {
+        "lang": "ko",
+        "slug": "split-step-footwork",
+        "viewport": 390,
+        "checks": 23
+      }
+    ]
+  },
+  "wordpress_public_checks": {
+    "total": 232,
+    "passed": 232,
+    "failed": [],
+    "results": [
+      {
+        "id": 248,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/turn-match-video-into-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 246,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/score-pressure-decision-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 238,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/drive-defense-changing-tempo/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 245,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/singles-shot-pattern-reading/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 242,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/feather-vs-nylon-shuttle/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 244,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/compare-shuttle-speed/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 240,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/block-and-counterattack/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 241,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/rally-tagging-and-error-types/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 239,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/deep-backhand-corner-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 243,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/shoe-fit-and-lacing-test/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 236,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/doubles-defense-to-offense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 228,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/forehand-backhand-grip-switch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 237,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/grip-wrap-and-fit/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 234,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/forehand-backhand-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 231,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/forehand-clear-fundamentals/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 235,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/body-smash-defense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 230,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/racket-face-soft-touch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 233,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/forehand-and-cross-lifts/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 232,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/four-week-badminton-practice-plan/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 229,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/six-corner-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 227,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/singles-build-open-court/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 226,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/singles-high-serve/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 223,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/net-kill-or-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 225,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/smash-targets-and-follow-up/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 221,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/rear-attack-front-intercept/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 120,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/flat-drive-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 121,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/defensive-clear-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 220,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/fast-slow-drop-choice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 119,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/defensive-lift-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 224,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/13/drive-body-to-open-space/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 116,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/drop-shot-placement-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 102,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/doubles-first-three-shots/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 99,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/backhand-short-serve-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 100,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/racket-testing-checklist/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 115,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/net-kill-timing-control/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 103,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/match-observation-notebook/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 114,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/smash-placement-practice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 118,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/smash-block-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 117,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/attacking-flat-drive/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 101,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/badminton-kit-care-routine/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 614,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/turn-match-video-into-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 17,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/badminton-racket-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 22,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/badminton-scoring-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 3,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/split-step-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 98,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/net-lunge-control-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 19,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/string-tension-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 15,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/serve-return-position/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 20,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/doubles-rotation-tactics/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 18,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/badminton-shoes-care/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 23,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/2026/11/03/effective-practice-session/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 677,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/shoe-fit-and-lacing-test/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 616,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/turn-match-video-into-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 681,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/deep-backhand-corner-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 676,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/compare-shuttle-speed/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 674,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/score-pressure-decision-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 678,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/feather-vs-nylon-shuttle/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 675,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/singles-shot-pattern-reading/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 679,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/rally-tagging-and-error-types/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 680,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/block-and-counterattack/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 615,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/turn-match-video-into-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 688,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/four-week-badminton-practice-plan/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 682,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/drive-defense-changing-tempo/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 683,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/grip-wrap-and-fit/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 684,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/doubles-defense-to-offense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 690,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/racket-face-soft-touch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 685,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/body-smash-defense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 687,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/forehand-and-cross-lifts/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 689,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/forehand-clear-fundamentals/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 686,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/forehand-backhand-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 691,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/six-corner-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 698,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/rear-attack-front-intercept/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 695,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/smash-targets-and-follow-up/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 693,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/singles-build-open-court/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 697,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/net-kill-or-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 699,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/fast-slow-drop-choice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 692,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/forehand-backhand-grip-switch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 696,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/drive-body-to-open-space/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 694,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/singles-high-serve/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 701,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/flat-drive-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 700,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/defensive-clear-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 704,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/attacking-flat-drive/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 705,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/drop-shot-placement-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 711,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/racket-testing-checklist/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 709,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/doubles-first-three-shots/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 702,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/defensive-lift-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 703,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/smash-block-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 710,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/badminton-kit-care-routine/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 707,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/smash-placement-practice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 706,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/net-kill-timing-control/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 708,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/match-observation-notebook/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 713,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/net-lunge-control-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 715,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/badminton-scoring-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 712,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/backhand-short-serve-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 714,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/effective-practice-session/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 718,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/badminton-shoes-care/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 716,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/doubles-rotation-tactics/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 719,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/badminton-racket-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 720,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/serve-return-position/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 717,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/string-tension-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 721,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/en/split-step-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 726,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/feather-vs-nylon-shuttle/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 725,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/shoe-fit-and-lacing-test/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 729,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/deep-backhand-corner-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 731,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/grip-wrap-and-fit/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 722,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/score-pressure-decision-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 730,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/drive-defense-changing-tempo/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 727,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/rally-tagging-and-error-types/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 724,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/compare-shuttle-speed/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 728,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/block-and-counterattack/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 723,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/singles-shot-pattern-reading/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 733,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/body-smash-defense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 739,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/six-corner-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 734,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/forehand-backhand-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 737,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/forehand-clear-fundamentals/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 736,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/four-week-badminton-practice-plan/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 738,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/racket-face-soft-touch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 741,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/singles-build-open-court/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 740,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/forehand-backhand-grip-switch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 735,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/forehand-and-cross-lifts/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 732,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/doubles-defense-to-offense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 751,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/smash-block-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 750,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/defensive-lift-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 744,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/drive-body-to-open-space/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 745,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/net-kill-or-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 749,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/flat-drive-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 747,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/fast-slow-drop-choice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 743,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/smash-targets-and-follow-up/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 742,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/singles-high-serve/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 748,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/defensive-clear-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 746,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/rear-attack-front-intercept/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 754,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/net-kill-timing-control/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 759,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/racket-testing-checklist/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 758,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/badminton-kit-care-routine/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 755,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/smash-placement-practice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 761,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/net-lunge-control-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 760,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/backhand-short-serve-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 752,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/attacking-flat-drive/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 757,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/doubles-first-three-shots/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 756,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/match-observation-notebook/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 753,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/drop-shot-placement-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 769,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/split-step-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 771,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/singles-shot-pattern-reading/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 765,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/string-tension-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 764,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/doubles-rotation-tactics/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 768,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/serve-return-position/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 767,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/badminton-racket-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 766,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/badminton-shoes-care/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 762,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/effective-practice-session/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 770,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/score-pressure-decision-drill/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 763,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ja/badminton-scoring-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 780,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/doubles-defense-to-offense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 778,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/drive-defense-changing-tempo/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 781,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/body-smash-defense/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 776,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/block-and-counterattack/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 774,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/feather-vs-nylon-shuttle/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 773,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/shoe-fit-and-lacing-test/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 775,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/rally-tagging-and-error-types/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 772,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/compare-shuttle-speed/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 777,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/deep-backhand-corner-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 779,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/grip-wrap-and-fit/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 787,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/six-corner-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 785,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/forehand-clear-fundamentals/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 789,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/singles-build-open-court/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 788,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/forehand-backhand-grip-switch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 791,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/smash-targets-and-follow-up/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 786,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/racket-face-soft-touch/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 782,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/forehand-backhand-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 784,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/four-week-badminton-practice-plan/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 790,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/singles-high-serve/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 783,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/forehand-and-cross-lifts/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 796,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/defensive-clear-recovery/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 792,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/drive-body-to-open-space/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 799,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/smash-block-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 798,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/defensive-lift-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 800,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/attacking-flat-drive/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 801,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/drop-shot-placement-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 794,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/rear-attack-front-intercept/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 797,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/flat-drive-defense-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 793,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/net-kill-or-net-shot/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 795,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/fast-slow-drop-choice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 804,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/match-observation-notebook/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 811,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/badminton-scoring-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 807,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/racket-testing-checklist/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 809,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/net-lunge-control-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 802,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/net-kill-timing-control/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 810,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/effective-practice-session/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 803,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/smash-placement-practice/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 808,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/backhand-short-serve-lesson/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 806,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/badminton-kit-care-routine/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 805,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/doubles-first-three-shots/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 148,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/attack-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 151,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/basics-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 813,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/string-tension-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 812,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/doubles-rotation-tactics/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 816,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/serve-return-position/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 149,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/defense-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 150,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/gear-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 817,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/split-step-footwork/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 815,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/badminton-racket-guide/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 814,
+        "kind": "course",
+        "url": "https://yurally.wordpress.com/ko/badminton-shoes-care/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 627,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/defense-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 310,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/watch-matches/china-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 309,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/watch-matches/all-england-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 311,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/watch-matches/india-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 625,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/attack-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 626,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/defense-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 628,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/defense-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 152,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/match-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 624,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/attack-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 623,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/attack-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 633,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/gear-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 634,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/gear-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 636,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/match-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 650,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/watch-matches/india-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 629,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/basics-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 631,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/basics-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 630,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/basics-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 635,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/match-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 632,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/gear-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 637,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/match-lessons/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 659,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/watch-matches/india-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 652,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/watch-matches/all-england-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 668,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/watch-matches/india-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 620,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/articles/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 21,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/articles/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 660,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/watch-matches/china-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 670,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/watch-matches/all-england-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 661,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/watch-matches/all-england-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 669,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/watch-matches/china-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 651,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/en/watch-matches/china-open-2026/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 621,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ja/articles/",
+        "status": 200,
+        "ok": true
+      },
+      {
+        "id": 622,
+        "kind": "entry",
+        "url": "https://yurally.wordpress.com/ko/articles/",
+        "status": 200,
+        "ok": true
+      }
+    ],
+    "overview_refresh_check": [
+      {
+        "url": "https://yurally.wordpress.com/articles/",
+        "ok": true
+      },
+      {
+        "url": "https://yurally.wordpress.com/articles/?yurally_verify=20261120-template-final",
+        "ok": true
+      }
+    ]
+  },
+  "manual_checks": [
+    "WordPress basics category opens the full GitHub Pages course",
+    "Chinese, English, Japanese and Korean remain on the same B10 course",
+    "Mouse expansion and Enter-key collapse stay in the course",
+    "Category menu opens with the shared animation",
+    "Each language overview contains 49 courses",
+    "FAQ retains 30 animated questions and opens/closes successfully"
+  ],
+  "scope": "Animations execute in the complete GitHub Pages courses. WordPress keeps its native reading version and links to the complete interactive courses."
+}
