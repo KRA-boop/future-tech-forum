@@ -1,0 +1,37 @@
+* { box-sizing: border-box; }
+html { color-scheme: dark; scroll-padding-top: 24px; }
+body { margin: 0; color: #f3fafb; background: #041d2b url('https://yurally.wordpress.com/wp-content/uploads/2026/11/exec-9610e25f-4dad-4f77-9849-2a63ef7311b3.png') center / cover fixed; font: 17px/1.8 system-ui, sans-serif; }
+main { max-width: 960px; margin: auto; padding: clamp(20px, 4vw, 44px) 20px; }
+a { color: #8de2d4; text-underline-offset: .2em; }
+a:focus-visible, summary:focus-visible, button:focus-visible { outline: 2px solid #ffc64b; outline-offset: 4px; }
+h1, h2, h3 { line-height: 1.4; overflow-wrap: anywhere; }
+h1 { font-size: clamp(26px, 4vw, 38px); margin-block: 24px; }
+.site-nav, .languages { display: flex; flex-wrap: wrap; gap: 10px; margin-block: 12px; }
+.site-nav a, .languages a { padding: 7px 12px; min-height: 44px; border: 1px solid #28505a; border-radius: 8px; text-decoration: none; background: #082b38; }
+.languages a[aria-current] { color: #041d2b; background: #8de2d4; font-weight: 700; }
+.lesson-body > .wp-block-group { padding: clamp(18px, 3vw, 30px) !important; border-radius: 14px; }
+.lesson-body { overflow-wrap: anywhere; }
+.lesson-body h2 { margin-top: 30px !important; }
+.lesson-body #self-check { font-size: 28px; font-weight: 650; margin-bottom: 18px; }
+.lesson-body img { max-width: 100%; height: auto; display: block; }
+.lesson-body figure { margin-inline: 0; }
+.lesson-body iframe { border: 0; width: 100%; aspect-ratio: 16 / 9; height: auto; }
+.lesson-body .wp-block-buttons { display: flex; flex-wrap: wrap; gap: 12px; }
+.lesson-body .wp-block-button__link { display: inline-block; text-decoration: none; }
+details { overflow: hidden; margin: 16px 0; background: #082b38; border: 1px solid #28505a; border-radius: 10px; }
+summary { cursor: pointer; padding: 16px; font-weight: 650; overflow-wrap: anywhere; }
+summary::marker { color: #8de2d4; }
+.answer { padding: 0 16px 14px; display: flow-root; overflow-wrap: anywhere; }
+.answer p { margin: 0 0 14px; }
+.answer p:last-child { margin-bottom: 0; }
+.course-menu { margin-block: 20px; }
+.course-menu .answer { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); gap: 10px; }
+.course-menu a { padding: 8px 12px; border: 1px solid #28505a; border-radius: 8px; text-decoration: none; }
+.course-menu a[aria-current] { color: #ffc64b; border-color: #ffc64b; }
+.course-list { display: grid; gap: 12px; padding: 0; list-style: none; }
+.course-list a { display: block; padding: 18px; background: #082b38; border: 1px solid #28505a; border-radius: 10px; text-decoration: none; }
+.course-list small { display: block; color: #bed2d7; }
+.social-links { display: flex; gap: 16px; padding-top: 28px; align-items: center; }
+.social-links img { width: 28px; height: 28px; }
+.source-link { display: inline-block; margin-top: 24px; font-size: 15px; }
+@media (max-width: 480px) { main { padding-inline: 16px; } .site-nav a, .languages a { padding-inline: 10px; } }
