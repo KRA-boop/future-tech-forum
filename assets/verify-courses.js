@@ -36,7 +36,6 @@
     const startUrl = win.location.href;
     const closedHeight = card.getBoundingClientRect().height;
     summary.click();
-    await frames(win);
     const animations = card.getAnimations({ subtree: true });
     assert(animations.length === 3, '缺少高度、揭幕或光圈動畫');
     const keyframes = animations.flatMap(a => a.effect.getKeyframes());
@@ -62,7 +61,6 @@
     assert(!card.open && win.location.href === startUrl, '檢核操作發生跳頁');
     const menu = doc.querySelector('.course-menu');
     menu.querySelector('summary').click();
-    await frames(win);
     assert(menu.getAnimations({ subtree: true }).length === 3, '分類下拉未使用相同動畫');
     await settle(menu);
     assert(menu.open && menu.querySelectorAll('.answer a').length === 6, '分類選單未完整展開');
@@ -80,7 +78,7 @@
     const outcomes = [];
     async function worker(workerId) {
       const frame = document.createElement('iframe');
-      Object.assign(frame.style, { position: 'fixed', left: '-2000px', top: '0', width: workerId % 2 ? '390px' : '1200px', height: '960px', border: '0' });
+      Object.assign(frame.style, { position: 'fixed', left: '0', top: '0', width: workerId % 2 ? '390px' : '1200px', height: '960px', border: '0', opacity: '0.01', pointerEvents: 'none' });
       frame.setAttribute('aria-hidden', 'true');
       frame.tabIndex = -1;
       document.body.append(frame);
