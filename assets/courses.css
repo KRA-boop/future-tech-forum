@@ -33,7 +33,7 @@ summary::marker { color: #8de2d4; }
 .course-list small { display: block; color: #bed2d7; }
 .social-links { display: flex; gap: 16px; padding-top: 28px; align-items: center; }
 .social-links img { width: 28px; height: 28px; }
-.source-link { display: inline-block; margin-top: 24px; font-size: 15px; }
+.source-link { display: none; }
 @media (max-width: 480px) { main { padding-inline: 16px; } .site-nav a, .languages a { padding-inline: 10px; } }
 
 /* Course pages begin directly with their content. */
