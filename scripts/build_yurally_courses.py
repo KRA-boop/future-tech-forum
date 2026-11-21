@@ -114,7 +114,7 @@ for record in records:
     title = html.unescape(record['title'])
     cat, code = category(record)
     rendered = body(record)
-    content = f'<article class="lesson-body">{rendered}</article><a class="source-link" href="{esc(record["link"])}">{TEXT[lang]["source"]}</a>'
+    content = f'<article class="lesson-body">{rendered}</article>'
     out = ROOT / 'yurally-courses' / lang / slug / 'index.html'
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(document(lang, title, content, slug, cat))
