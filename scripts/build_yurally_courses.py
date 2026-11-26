@@ -5,6 +5,7 @@ import html
 import json
 import re
 from course_videos import add_video_html
+from course_navigation import return_to_category
 
 ROOT = Path(__file__).resolve().parents[1]
 BASE = '/future-tech-forum'
@@ -77,7 +78,9 @@ def body(record):
     label = TEXT[record['lang']]['selfcheck']
     text, count = re.subn(r'<h2\b[^>]*id="self-check"[^>]*>.*?</h2>', '<h2 id="self-check">' + label + '</h2>', text, count=1, flags=re.S)
     assert count == 1, record['id']
-    return add_video_html(re.sub(r'href="([^"]+)"', rewrite_link, text), record['slug'], record['lang'])
+    rendered = add_video_html(re.sub(r'href="([^"]+)"', rewrite_link, text), record['slug'], record['lang'])
+    cat, _ = category(record)
+    return return_to_category(rendered, record['lang'], cat)
 
 def category(record):
     first = re.search(r'<p\b[^>]*>(.*?)</p>', record['content'], re.S).group(1)
