@@ -12,10 +12,10 @@ SITE = 'https://kra-boop.github.io' + BASE
 VERSION = '20261120-gold-1'
 LANGS = {'zh': '中文', 'en': 'ENG', 'ja': '日本語', 'ko': '한국어'}
 TEXT = {
-    'zh': dict(home='首頁', courses='課程總覽', faq='常見問答', menu='課程分類', all='全部課程', selfcheck='自我檢核', source='WordPress 課程原文', categories=['基礎技術', '進攻技巧', '防守技巧', '裝備指南', '賽事觀察']),
-    'en': dict(home='Home', courses='All courses', faq='FAQ', menu='Course categories', all='All courses', selfcheck='Self-check', source='Original WordPress course', categories=['Basic techniques', 'Attack', 'Defense', 'Equipment', 'Match observation']),
-    'ja': dict(home='ホーム', courses='講座一覧', faq='よくある質問', menu='講座カテゴリー', all='すべての講座', selfcheck='セルフチェック', source='WordPress の元の講座', categories=['基本技術', '攻撃', '守備', '用具ガイド', '試合観察']),
-    'ko': dict(home='홈', courses='전체 강좌', faq='자주 묻는 질문', menu='강좌 분류', all='전체 강좌', selfcheck='자가 점검', source='WordPress 원문 강좌', categories=['기초 기술', '공격 기술', '수비 기술', '장비 가이드', '경기 관찰']),
+    'zh': dict(home='首頁', courses='課程總覽', faq='常見問答', menu='課程分類', all='全部課程', selfcheck='自我檢核', categories=['基礎技術', '進攻技巧', '防守技巧', '裝備指南', '賽事觀察']),
+    'en': dict(home='Home', courses='All courses', faq='FAQ', menu='Course categories', all='All courses', selfcheck='Self-check', categories=['Basic techniques', 'Attack', 'Defense', 'Equipment', 'Match observation']),
+    'ja': dict(home='ホーム', courses='講座一覧', faq='よくある質問', menu='講座カテゴリー', all='すべての講座', selfcheck='セルフチェック', categories=['基本技術', '攻撃', '守備', '用具ガイド', '試合観察']),
+    'ko': dict(home='홈', courses='전체 강좌', faq='자주 묻는 질문', menu='강좌 분류', all='전체 강좌', selfcheck='자가 점검', categories=['기초 기술', '공격 기술', '수비 기술', '장비 가이드', '경기 관찰']),
 }
 CATEGORIES = ['basics', 'attack', 'defense', 'gear', 'match']
 CODE_CATEGORY = dict(zip('BADGM', CATEGORIES))
