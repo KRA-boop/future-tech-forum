@@ -1,0 +1,1409 @@
+{
+  "labels": {
+    "zh": {
+      "heading": "YouTube 影片教學",
+      "watch": "觀賽重點",
+      "practice": "課後練習",
+      "link": "在 YouTube 觀看原影片"
+    },
+    "en": {
+      "heading": "YouTube Tutorial Videos",
+      "watch": "Key Points to Watch",
+      "practice": "After-Class Exercises",
+      "link": "Watch the original video on YouTube"
+    },
+    "ja": {
+      "heading": "YouTubeの指導動画",
+      "watch": "試合観戦のポイント",
+      "practice": "練習後の課題",
+      "link": "YouTubeで元の動画を見る"
+    },
+    "ko": {
+      "heading": "YouTube 강좌 영상",
+      "watch": "경기 관전 포인트",
+      "practice": "수업 후 연습 항목",
+      "link": "YouTube에서 원본 영상 보기"
+    }
+  },
+  "videos": {
+    "2J4V37Qf9FY": {
+      "title": "L17V2 The Smash",
+      "author": "BWF Development"
+    },
+    "IOtB-Ago0DE": {
+      "title": "L17V4 Smash And Block Defence Practice",
+      "author": "BWF Development"
+    },
+    "ecJndauWseQ": {
+      "title": "CE1M7V10 - Strokes - Forehand net kill",
+      "author": "BWF Development"
+    },
+    "BIZ6PJ8z5Uo": {
+      "title": "The 2 Types Of NET KILL To Always Win The Point",
+      "author": "Badminton Insight"
+    },
+    "6whrMThtZEE": {
+      "title": "L15V3 Overhead Drop Shot",
+      "author": "BWF Development"
+    },
+    "81_jgUreAPM": {
+      "title": "The Secrets to a Better Badminton Drop Shot (Slow vs. Fast)",
+      "author": "Modu Badminton"
+    },
+    "SrHbGSWEU54": {
+      "title": "L11V4 Flat Play",
+      "author": "BWF Development"
+    },
+    "e72FXqOsAWA": {
+      "title": "CE2M5V13 Forehand Drive (Doubles)",
+      "author": "BWF Development"
+    },
+    "xO18JqMxflg": {
+      "title": "How To Master The FRONT COURT INTERCEPT In Doubles Badminton?",
+      "author": "JAHO Badminton"
+    },
+    "LewjrBRG7Ws": {
+      "title": "8 Basic Singles Tactics You NEED TO KNOW",
+      "author": "Badminton Insight"
+    },
+    "u9hjczG3EaU": {
+      "title": "CE2M8V16 Reaction Work - Basic Split-Step",
+      "author": "BWF Development"
+    },
+    "TBh5a11amKk": {
+      "title": "L3V3 Having a lunge",
+      "author": "BWF Development"
+    },
+    "Z11huGAjaVg": {
+      "title": "CE2M8V15 Court Shadows - Partner Directed",
+      "author": "BWF Development"
+    },
+    "AQR0p2cbVAY": {
+      "title": "Shuttle Time – Lesson Walkthrough & Court Set Up",
+      "author": "BWF Development"
+    },
+    "rl5mDMz6AcQ": {
+      "title": "L21V1 Revision Of Backhand Serve",
+      "author": "BWF Development"
+    },
+    "V82M40Vs7zI": {
+      "title": "CE1M8V8 - Tactics - Men's doubles serve and return",
+      "author": "BWF Development"
+    },
+    "3zNj3fhpwf0": {
+      "title": "CE1M7V6 - Strokes - Forehand high serve",
+      "author": "BWF Development"
+    },
+    "Wt01jO1mgjk": {
+      "title": "L2V4 Grip change with Shuttle",
+      "author": "BWF Development"
+    },
+    "sM52YCczxrc": {
+      "title": "L2V5 Hitting Targets With Change of Grips",
+      "author": "BWF Development"
+    },
+    "5dIfqiscRsg": {
+      "title": "CE1M7V18 - Strokes - Forehand clear",
+      "author": "BWF Development"
+    },
+    "TVNW9S7o0Bk": {
+      "title": "L3V4 Introduction net shots – Backhand & Forehand Side",
+      "author": "BWF Development"
+    },
+    "f9m_9FkVj5s": {
+      "title": "How to structure your PERFECT WEEK of BADMINTON TRAINING",
+      "author": "Tobias Wadenka"
+    },
+    "u-diuyaBu9I": {
+      "title": "L17V3 Block Defence",
+      "author": "BWF Development"
+    },
+    "urwBRjUYMdU": {
+      "title": "CE1M7V15 - Strokes - Backhand block off body",
+      "author": "BWF Development"
+    },
+    "UXhneWqy0Zw": {
+      "title": "L8V3 Backhand Lift",
+      "author": "BWF Development"
+    },
+    "ZDfaUrR0RY0": {
+      "title": "L9V3 Forehand Lift",
+      "author": "BWF Development"
+    },
+    "SmbzNq3LFPs": {
+      "title": "L12V3 Midcourt Game with Body Hits",
+      "author": "BWF Development"
+    },
+    "eAOYXhmpc94": {
+      "title": "CE2M5V8 Backhand Drive Defence",
+      "author": "BWF Development"
+    },
+    "PpEuZmHTVsM": {
+      "title": "L13V3 Forehand Clear",
+      "author": "BWF Development"
+    },
+    "8QMCAK3O7FU": {
+      "title": "Backhand Rear-Court Footwork - The 5 Types You NEED TO KNOW!",
+      "author": "Badminton Insight"
+    },
+    "P06HRqj-EqM": {
+      "title": "L18V2 Lift-Smash-Block",
+      "author": "BWF Development"
+    },
+    "QLYJJ3Jpzsc": {
+      "title": "How To ATTACK + ROTATE In Men’s Doubles - Badminton Tactics You Need To Know",
+      "author": "Badminton Insight"
+    },
+    "RGmZUSIM3s8": {
+      "title": "How To Choose The BEST BADMINTON RACKET For You - The 4 Step Framework",
+      "author": "Badminton Insight"
+    },
+    "Z09cXPwU-n0": {
+      "title": "What Badminton String & Tension Should You Use?",
+      "author": "Badminton Insight"
+    },
+    "xj1kb8F33Rg": {
+      "title": "Which POWER RACKET Is BEST? 4 Top Badminton Rackets Tested!",
+      "author": "Badminton Famly"
+    },
+    "1PAmO1HwQVQ": {
+      "title": "How To Grip Your Badminton Racket Perfectly TUTORIAL",
+      "author": "Howard Shu"
+    },
+    "Uvj4q5w0f14": {
+      "title": "What Badminton Shoes To Buy (and what to avoid!)",
+      "author": "Badminton Insight"
+    },
+    "unAE-0mBnNI": {
+      "title": "What Badminton Equipment You Need… And Don’t Need",
+      "author": "Badminton Insight"
+    },
+    "Ags_6S0A1pc": {
+      "title": "Heel slips out of your sports shoes? Here's how to tie and fasten shoe laces for better fit.",
+      "author": "Badminton Bay"
+    },
+    "TTp48N4N_N4": {
+      "title": "Badminton Basics: Plastic vs Feather Shuttlecocks (Birdies) - YumoTube",
+      "author": "Yumo Pro Shop"
+    },
+    "eEhPWzSjW9E": {
+      "title": "REFV1- Testing Shuttle for Speed",
+      "author": "BWF Development"
+    },
+    "zzAy9x4Q9pY": {
+      "title": "L21V3 Positional Play for Doubles",
+      "author": "BWF Development"
+    },
+    "nDNZGj30BBY": {
+      "title": "Lin Dan demonstrates the backhand serve technique and shares why it is a must-learn",
+      "author": "BWF TV"
+    },
+    "-e6Zilqb2Wk": {
+      "title": "CE2M6V2 Return of Service in Doubles",
+      "author": "BWF Development"
+    },
+    "rd1npEVBxAA": {
+      "title": "CE1M8V4 - Tactics - Singles rallying",
+      "author": "BWF Development"
+    },
+    "UyLIi-TbcFc": {
+      "title": "The Rules of Badminton - EXPLAINED!",
+      "author": "Ninh Ly"
+    },
+    "yfs6ScaazjI": {
+      "title": "How To Analyse Your Badminton Matches",
+      "author": "Badminton Insight"
+    },
+    "cabUCGvLgjs": {
+      "title": "How To Analyze Your Badminton Matches (5 Things To Look For!)",
+      "author": "Badminton Justin"
+    },
+    "GC3GRKNYKa0": {
+      "title": "5 Ways to Beat STRONGER PLAYERS | Mental Toughness Training for Badminton Players",
+      "author": "Badminton Justin"
+    },
+    "nTL8uUlb4fo": {
+      "title": "We Analysed Our Subscribers Playing Badminton...",
+      "author": "Badminton Insight"
+    }
+  },
+  "lessons": {
+    "smash-placement-practice": {
+      "code": "A01",
+      "ids": [
+        "2J4V37Qf9FY"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "留意殺球時身體前上方的擊球點，以及擊球後是否能立即收拍、恢復準備姿勢。",
+          "practice": "同伴餵球，做兩組各 8 球中等力量殺球，記錄指定直線區命中與平衡回位次數。"
+        },
+        "en": {
+          "watch": "Pay attention to the contact point—which is slightly above and in front of your body—when executing a smash, and make sure to retract your racket immediately after hitting the shuttlecock and return to your ready position.",
+          "practice": "With a partner feeding you the shuttlecock, perform two sets of 8 medium-power smashes each, and record the number of hits that land in the designated straight-line zones as well as the number of times you return to your ready position."
+        },
+        "ja": {
+          "watch": "スマッシュの際、体の前方上方の打点に注意し、打球後にすぐにラケットを収めて準備姿勢に戻れるかを確認する。",
+          "practice": "パートナーからボールを打ってもらい、中程度の強さのスマッシュを各8球ずつ2セット行い、指定された直線エリアへのヒット数と、バランスを保ちながら元の位置に戻る回数を記録する。"
+        },
+        "ko": {
+          "watch": "스매시 시 몸의 앞쪽 위쪽 타구 지점을 주의하고, 타구 후 즉시 라켓을 수거하고 준비 자세로 돌아갈 수 있는지 확인하십시오.",
+          "practice": "파트너가 공을 던져주면, 중간 강도의 스매시를 각 8개씩 2세트 수행하고, 지정된 직선 구역에 공을 맞춘 횟수와 균형을 되찾은 횟수를 기록하십시오."
+        }
+      }
+    },
+    "smash-targets-and-follow-up": {
+      "code": "A02",
+      "ids": [
+        "IOtB-Ago0DE"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察殺球與擋網練習中，進攻者打完第一拍後如何準備下一拍。",
+          "practice": "同伴交替擋直線及斜線；每組 8 次，分別練殺身體與空檔，殺完收拍並回擊第二拍。"
+        },
+        "en": {
+          "watch": "Observe how the attacker prepares for the next shot after hitting the first shot during smash and net return drills.",
+          "practice": "Partners take turns returning shots down the line and diagonally; 8 repetitions per set. Practice smashing at the body and into open spaces, respectively. After the smash, retract the racket and return the second shot."
+        },
+        "ja": {
+          "watch": "スマッシュとネット返しの練習において、攻撃側が最初のショットを打った後、次のショットにどのように備えるかを観察する。",
+          "practice": "パートナーと交代でストレートとクロスのネット返しを行う。各組8回ずつ、ボディスマッシュとスペースへのスマッシュをそれぞれ練習し、スマッシュ後のラケットを収めてから2打目を返す。"
+        },
+        "ko": {
+          "watch": "스매시와 네트 블록 연습 중, 공격자가 첫 번째 샷을 친 후 다음 샷을 어떻게 준비하는지 관찰한다.",
+          "practice": "파트너와 번갈아 가며 직선과 대각선 블록을 연습한다. 각 조당 8회씩, 상대를 향한 스매시와 빈 공간을 노린 스매시를 각각 연습하고, 스매시 후 라켓을 수정한 뒤 두 번째 샷을 반격한다."
+        }
+      }
+    },
+    "net-kill-timing-control": {
+      "code": "A03",
+      "ids": [
+        "ecJndauWseQ"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察高於網帶的擊球點、短促下壓，以及球拍是否避開碰網。",
+          "practice": "同伴餵 10 顆高於網帶的球，短動作撲球；再餵 10 顆較低的球，練習改為放網。"
+        },
+        "en": {
+          "watch": "Observe the contact point above the net, the short, downward stroke, and whether the racket avoids hitting the net.",
+          "practice": "Have a partner feed you 10 shots above the net; use a short, quick stroke to return them. Then, have them feed you 10 lower shots and practice dropping the shuttlecock over the net instead."
+        },
+        "ja": {
+          "watch": "ネットバンドより高い打点、短く鋭いダウンスイング、そしてラケットがネットに触れないかどうかを観察する。",
+          "practice": "パートナーにネットバンドより高いボールを10球打ってもらい、短い動作でスマッシュを打つ。次に、やや低いボールを10球打ってもらい、ネット越えのショットに切り替えて練習する。"
+        },
+        "ko": {
+          "watch": "네트 띠보다 높은 타구 지점, 짧고 강하게 아래로 내리치는 동작, 그리고 라켓이 네트에 닿지 않는지 관찰한다.",
+          "practice": "파트너가 네트 띠보다 높은 공을 10개 던져주면, 짧은 동작으로 공을 받아치고; 이어서 낮은 공을 10개 더 던져주면, 네트 위로 넘기는 연습을 한다."
+        }
+      }
+    },
+    "net-kill-or-net-shot": {
+      "code": "A04",
+      "ids": [
+        "BIZ6PJ8z5Uo"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "比較不同網前撲球手法的拍面與揮動距離，思考何種來球高度不適合下壓。",
+          "practice": "同伴隨機餵高、低網前球各 10 次；高球撲向空檔，低球放網，記錄判斷正確率。"
+        },
+        "en": {
+          "watch": "Compare the racket face angles and swing distances for different net-dive techniques, and consider which ball heights are unsuitable for a downward smash.",
+          "practice": "Have a partner randomly feed you 10 high and 10 low net shots; dive toward open spaces for high shots and drop the low shots over the net, then record your accuracy rate."
+        },
+        "ja": {
+          "watch": "ネット前のダイブショットのさまざまな打ち方について、ラケットの面やスイング距離を比較し、どのような高さのボールに対してダウンスイングが適さないかを考える。",
+          "practice": "パートナーに、高めのネット前ボールと低めのネット前ボールをそれぞれ10回ずつランダムに打ってもらう。高めのボールは空いているスペースへダイブショットし、低めのボールはネットにかける。判断の正答率を記録する。"
+        },
+        "ko": {
+          "watch": "다양한 네트 앞 다이빙 샷의 라켓 면과 스윙 거리를 비교하고, 어떤 높이의 공이 다운스매시에 적합하지 않은지 생각해 본다.",
+          "practice": "파트너가 무작위로 높은 공과 낮은 네트 앞 공을 각각 10회씩 보내주면, 높은 공은 빈 공간으로 다이빙 샷을, 낮은 공은 네트 위로 뜬 공을 치고, 판단 정확도를 기록한다."
+        }
+      }
+    },
+    "drop-shot-placement-lesson": {
+      "code": "A05",
+      "ids": [
+        "6whrMThtZEE"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "比較吊球與高遠球的準備動作，留意羽球飛行弧線和落點。",
+          "practice": "每組 10 球，交替打相近準備的高遠球與直線吊球，記錄落在前場目標區的次數。"
+        },
+        "en": {
+          "watch": "Compare the preparatory movements for drop shots and clear shots, paying attention to the shuttlecock’s flight path and landing point.",
+          "practice": "Play 10 shuttles per set, alternating between clear shots and straight drop shots with similar preparatory movements, and record the number of times the shuttlecock lands in the front-court target zone."
+        },
+        "ja": {
+          "watch": "ドロップショットとハイクリアの準備動作を比較し、シャトルの飛行軌道と着地点に注意を払う。",
+          "practice": "1セット10球ずつ、準備動作が似たハイクリアとストレートドロップショットを交互に打ち、前場の目標エリアに着地した回数を記録する。"
+        },
+        "ko": {
+          "watch": "드로프 샷과 하이 클리어의 준비 동작을 비교하고, 셔틀콕의 비행 궤적과 착지 지점을 주의 깊게 관찰하세요.",
+          "practice": "한 세트당 10구씩, 준비 동작이 비슷한 하이 클리어와 직선 드롭 샷을 번갈아 치며, 전방 목표 구역에 떨어진 횟수를 기록하세요."
+        }
+      }
+    },
+    "fast-slow-drop-choice": {
+      "code": "A06",
+      "ids": [
+        "81_jgUreAPM"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "比較快吊和慢吊的飛行速度、落點深度，以及對手可用的移動時間。",
+          "practice": "快吊、慢吊各 10 球，同伴變換前後站位；依空檔選球並記錄兩種落點的穩定度。"
+        },
+        "en": {
+          "watch": "Compare the flight speed, depth of landing, and the opponent’s reaction time for fast and slow drops.",
+          "practice": "Play 10 balls each of fast and slow drops, with your partner alternating between front and back positions; select shots based on open spaces and record the consistency of the two landing points."
+        },
+        "ja": {
+          "watch": "速いドロップショットと遅いドロップショットの飛行速度、着地点の深さ、および相手が移動できる時間を比較する。",
+          "practice": "速いドロップショットと遅いドロップショットをそれぞれ10球ずつ打ち、パートナーと前後のポジションを入れ替える。空いているスペースに合わせてショットを選び、2種類の着地点の安定度を記録する。"
+        },
+        "ko": {
+          "watch": "빠른 드롭 샷과 느린 드롭 샷의 비행 속도, 낙점 깊이, 그리고 상대가 움직일 수 있는 시간을 비교한다.",
+          "practice": "빠른 드롭 샷과 느린 드롭 샷을 각각 10구씩 치며, 파트너는 앞뒤 위치를 번갈아 가며 서게 한다. 빈 공간을 파악하여 공을 선택하고, 두 가지 낙점의 안정성을 기록한다."
+        }
+      }
+    },
+    "attacking-flat-drive": {
+      "code": "A07",
+      "ids": [
+        "SrHbGSWEU54"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "留意平抽時的身前擊球點、短揮拍和連續抬拍準備。",
+          "practice": "兩人中場平抽 3 組，每組 30 秒；記錄控制在可連續回擊高度的最長拍數。"
+        },
+        "en": {
+          "watch": "Pay attention to the contact point in front of you during flat drives, short swings, and the preparation for consecutive racket lifts.",
+          "practice": "Two-player flat drives in the middle of the court: 3 sets, 30 seconds each; record the maximum number of consecutive returns at a height that allows for continuous play."
+        },
+        "ja": {
+          "watch": "ストレートストロークの際、体の前の打点、短いスイング、連続したラケット上げの準備に注意すること。",
+          "practice": "2人でコート中央でストレートストロークを3セット、各セット30秒間行う。連続して打ち返せる高さでの最大ストローク数を記録する。"
+        },
+        "ko": {
+          "watch": "평타를 칠 때 몸 앞쪽의 타구 지점, 짧은 라켓 스윙, 연속적인 라켓 올리기 준비 동작에 주의하십시오.",
+          "practice": "두 사람이 코트 중앙에서 평타를 3세트, 각 세트당 30초씩 진행하며, 연속으로 리턴할 수 있는 높이에서 가장 많은 샷 수를 기록하도록 합니다."
+        }
+      }
+    },
+    "drive-body-to-open-space": {
+      "code": "A08",
+      "ids": [
+        "e72FXqOsAWA"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "學習雙打正手平抽的短動作、身前觸球與收拍，將技巧運用於兩拍變線。",
+          "practice": "做 8 組兩拍練習：第一拍平抽至同伴身體旁，第二拍打另一側空檔，記錄變線成功率。"
+        },
+        "en": {
+          "watch": "Learn the short motion, in-front-of-the-body contact, and racket follow-through for the forehand flat drive in doubles, and apply these techniques to two-shot direction changes.",
+          "practice": "Perform 8 sets of two-shot drills: On the first shot, hit a flat drive next to your partner’s body; on the second shot, hit to the open space on the other side. Record the success rate of the direction changes."
+        },
+        "ja": {
+          "watch": "ダブルスのフォアハンド・ストレートストロークの短い動作、体の前でボールを打つこと、ラケットを引き戻すことを学び、そのテクニックを2打でのコースチェンジに応用する。",
+          "practice": "2打の練習を8セット行う：1打目はパートナーの体の横へストレートに打ち、2打目は反対側の空いているスペースへ打つ。コースチェンジの成功率を記録する。"
+        },
+        "ko": {
+          "watch": "복식 포핸드 플랫 샷의 짧은 동작, 몸 앞쪽에서 공을 치는 법, 라켓을 거두는 법을 익히고, 이 기술을 두 번의 샷으로 방향을 바꾸는 데 활용합니다.",
+          "practice": "8세트의 두 번 샷 연습을 진행합니다: 첫 번째 샷은 파트너 몸 옆으로 플랫 샷을 치고, 두 번째 샷은 반대쪽 빈 공간으로 치며, 방향 전환 성공률을 기록합니다."
+        }
+      }
+    },
+    "rear-attack-front-intercept": {
+      "code": "A09",
+      "ids": [
+        "xO18JqMxflg"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察前場球員在搭檔後場下壓時如何抬拍、選擇攔截時機並保護中路。",
+          "practice": "兩人分任前後場，重複 10 次後場下壓與前場攔截，再交換站位，記錄配合失誤原因。"
+        },
+        "en": {
+          "watch": "Observe how the front-court player raises their racket, chooses the right moment to intercept, and protects the center of the court when their back-court partner drives the shuttlecock.",
+          "practice": "With one player in the front court and the other in the back court, repeat the back-court drive and front-court intercept 10 times, then switch positions and record the reasons for any coordination errors."
+        },
+        "ja": {
+          "watch": "パートナーがバックコートでスマッシュを打つ際、フロントコートの選手がどのようにラケットを構え、インターセプトのタイミングを見極め、センターをカバーしているかを観察する。",
+          "practice": "2人でフロントコートとバックコートを分担し、バックコートからのスマッシュとフロントコートでのインターセプトを10回繰り返した後、ポジションを交代し、連携ミスがあった場合はその原因を記録する。"
+        },
+        "ko": {
+          "watch": "후방 파트너가 전방으로 강하게 공격해 올 때, 전방 선수가 라켓을 어떻게 들어 올리고, 차단 타이밍을 어떻게 선택하며, 중앙을 어떻게 방어하는지 관찰한다.",
+          "practice": "두 사람이 각각 전방과 후방 위치를 맡아, 후방 공격과 전방 차단을 10회 반복한 뒤 위치를 바꾸고, 호흡이 맞지 않아 실수한 원인을 기록한다."
+        }
+      }
+    },
+    "singles-build-open-court": {
+      "code": "A10",
+      "ids": [
+        "LewjrBRG7Ws"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察單打如何運用深淺、左右落點拉開對手，再利用出現的空檔。",
+          "practice": "打 10 個回合，每回合先以兩拍調動對手，再選擇加速；記錄創造空檔的那一拍。"
+        },
+        "en": {
+          "watch": "Observe how singles players use deep and shallow shots, as well as left- and right-side placements, to stretch the opponent’s defense, then capitalize on the resulting openings.",
+          "practice": "Play 10 rallies. In each rally, start by moving your opponent with two strokes, then choose a moment to accelerate; note the specific stroke that created the opening."
+        },
+        "ja": {
+          "watch": "シングルスにおいて、前後の深さや左右の着地点を駆使して相手の動きを引き出し、その隙をどのように活用するかを観察する。",
+          "practice": "10ラリーを行い、各ラリーでまず2打分相手の動きを引き出した後、スピードを上げる。隙を生み出した打球を記録する。"
+        },
+        "ko": {
+          "watch": "단식 경기에서 상대를 넓게 끌어내기 위해 전후방 및 좌우 코너를 어떻게 활용하는지 관찰한 뒤, 그 틈을 활용하세요.",
+          "practice": "10회 랠리를 진행하며, 매 랠리마다 먼저 두 번의 샷으로 상대를 움직인 다음 속도를 높입니다. 틈을 만든 샷을 기록하세요."
+        }
+      }
+    },
+    "split-step-footwork": {
+      "code": "B01",
+      "ids": [
+        "u9hjczG3EaU"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "留意啟動步與對手擊球訊號的配合，雙腳落地後如何立即變向。",
+          "practice": "同伴用揮拍或手勢指示左右方向，做 3 組各 10 次輕小啟動步，記錄第一步是否及時。"
+        },
+        "en": {
+          "watch": "Pay attention to coordinating your initial step with your opponent’s shot signal, and how to change direction immediately after both feet land.",
+          "practice": "Have a partner use a racket swing or hand signal to indicate left or right. Perform 3 sets of 10 light, small initial steps each, and note whether the first step is taken in a timely manner."
+        },
+        "ja": {
+          "watch": "スタートステップと相手の打球シグナルの連携に注意し、両足が着地した後、いかに素早く方向転換するかを意識しましょう。",
+          "practice": "パートナーがラケットを振ったり手振りで左右の方向を示したりするので、軽いスタートステップを3セット（各10回）行い、最初のステップがタイミングよく出ているかを記録します。"
+        },
+        "ko": {
+          "watch": "시작 동작과 상대의 타구 신호를 조화롭게 맞추는 데 주의하고, 양발이 지면에 닿은 후 즉시 방향을 전환하는 방법을 익히세요.",
+          "practice": "파트너가 라켓을 휘두르거나 손짓으로 좌우 방향을 지시하면, 가볍고 작은 시작 동작을 3세트씩 각 10회씩 수행하며, 첫 발을 제때 내디뎠는지 기록하세요."
+        }
+      }
+    },
+    "net-lunge-control-lesson": {
+      "code": "B02",
+      "ids": [
+        "TBh5a11amKk"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察網前跨步的落腳、軀幹平衡、伸拍與推回中心的動作。",
+          "practice": "正反手前場各做 10 次低強度跨步，觸球後推回準備位置，確認能穩定停住再增加速度。"
+        },
+        "en": {
+          "watch": "Observe the foot placement, torso balance, racket extension, and return to the center during net-front lunges.",
+          "practice": "Perform 10 low-intensity lunges each for forehand and backhand at the net. After making contact with the shuttlecock, return to the ready position. Ensure you can come to a stable stop before increasing your speed."
+        },
+        "ja": {
+          "watch": "ネット前のステップの着地、体幹のバランス、ラケットの振り出し、そしてセンターへ戻す動作を観察する。",
+          "practice": "フォアハンドとバックハンドのフロントコートで、それぞれ10回ずつ低強度のステップを行い、ボールに触れた後は準備位置に戻す。安定して止まれることを確認してから、スピードを上げていく。"
+        },
+        "ko": {
+          "watch": "네트 앞에서의 스텝 착지, 몸통 균형, 라켓 뻗기 및 중심을 향해 라켓을 되돌리는 동작을 관찰한다.",
+          "practice": "포핸드와 백핸드 전방에서 각각 10회씩 저강도 스텝을 수행하고, 공을 친 후 준비 자세로 되돌아가며, 안정적으로 멈출 수 있는지 확인한 뒤 속도를 높인다."
+        }
+      }
+    },
+    "six-corner-footwork": {
+      "code": "B03",
+      "ids": [
+        "Z11huGAjaVg"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察搭檔指示方向的空拍步伐及每次移動後恢復準備的位置。",
+          "practice": "同伴輪流指向六個角落，完成 3 組各 12 次空拍移動；每次回中站穩再啟動。"
+        },
+        "en": {
+          "watch": "Observe your partner’s direction cues and the footwork for the imaginary shots, as well as how you return to the ready position after each movement.",
+          "practice": "Take turns with your partner pointing to the six corners, completing 3 sets of 12 imaginary shot movements each; return to the center, steady yourself, and then start again each time."
+        },
+        "ja": {
+          "watch": "パートナーが指示する方向への空打ちのフットワークと、移動のたびに準備姿勢に戻る動きを観察する。",
+          "practice": "パートナーが6つのコーナーを順番に指し示し、3セット（各12回）の空打ち移動を行う。毎回、中央に戻って足元を安定させてから動き始める。"
+        },
+        "ko": {
+          "watch": "파트너가 가리키는 방향으로 공이 없는 상태에서 발놀림을 하고, 이동할 때마다 준비 자세로 돌아가는 모습을 관찰한다.",
+          "practice": "파트너가 여섯 모서리를 번갈아 가리키면, 3세트씩 각 12회씩 공이 없는 상태에서의 이동을 완료한다. 매번 중앙으로 돌아와 발을 단단히 디딘 후 다시 시작한다."
+        }
+      }
+    },
+    "effective-practice-session": {
+      "code": "B04",
+      "ids": [
+        "AQR0p2cbVAY"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察場地配置、器材準備和練習站的安排，思考如何減少等候時間。",
+          "practice": "安排 30 分鐘流程：5 分鐘熱身、20 分鐘主題及多球練習、5 分鐘收操與紀錄，實際執行一次。"
+        },
+        "en": {
+          "watch": "Observe the court layout, equipment setup, and practice station arrangements, and consider how to minimize wait times.",
+          "practice": "Plan a 30-minute session: 5 minutes for warm-up, 20 minutes for themed and multi-shuttlecock drills, and 5 minutes for cool-down and record-keeping. Carry out the session once."
+        },
+        "ja": {
+          "watch": "コートの配置、用具の準備、練習ステーションの配置を確認し、待ち時間を短縮する方法を考える。",
+          "practice": "30分間のスケジュールを組む：5分間のウォームアップ、20分間のテーマ別練習および多球練習、5分間のクールダウンと記録。実際に1回実施する。"
+        },
+        "ko": {
+          "watch": "코트 배치, 장비 준비 및 연습 스테이션 배치를 관찰하고, 대기 시간을 줄일 수 있는 방법을 고민해 본다.",
+          "practice": "30분 일정을 다음과 같이 구성한다: 5분 준비 운동, 20분 주제별 및 다구 연습, 5분 정리 운동 및 기록. 이를 실제로 한 번 실행해 본다."
+        }
+      }
+    },
+    "backhand-short-serve-lesson": {
+      "code": "B05",
+      "ids": [
+        "rl5mDMz6AcQ"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察反手短發球的持球位置、拍面、短促發力及過網高度。",
+          "practice": "向對角發球區近前發球線各發兩組 10 球，記錄合法入區、低過網及接近目標的次數。"
+        },
+        "en": {
+          "watch": "Observe the ball position, racket face, quick power generation, and height over the net for the backhand drop serve.",
+          "practice": "Serve two sets of 10 balls each to the front of the diagonal service box, and record the number of serves that land in the service box, go low over the net, and come close to the target."
+        },
+        "ja": {
+          "watch": "バックハンドのショートサーブのボール保持位置、ラケット面、素早い力の発揮、およびネット越えの高さを観察する。",
+          "practice": "対角のサーブエリアのフロントライン付近に向けて、それぞれ2セット（各10球）ずつサーブを行い、有効エリアへの着地、ネットを低く越えたボール、および目標に近づいたボールの回数を記録する。"
+        },
+        "ko": {
+          "watch": "백핸드 짧은 서브의 라켓 잡는 위치, 라켓 면, 짧은 힘 전달, 네트 통과 높이를 관찰한다.",
+          "practice": "대각선 서브 구역의 앞쪽 서브 라인을 향해 각각 10개씩 두 세트를 서브하고, 유효 구역에 들어간 횟수, 네트를 낮게 통과한 횟수, 목표 지점에 근접한 횟수를 기록한다."
+        }
+      }
+    },
+    "serve-return-position": {
+      "code": "B06",
+      "ids": [
+        "V82M40Vs7zI"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察雙打發球者、接發者及搭檔在發接發階段如何移動與覆蓋空間。",
+          "practice": "四人輪流進行 12 組前三拍；每次停下確認誰守前場、誰補後場，再交換角色。"
+        },
+        "en": {
+          "watch": "Observe how the server, receiver, and their partners in doubles move and cover the court during the serve-and-return phase.",
+          "practice": "Have four players take turns performing 12 sets of the first three shots; pause after each set to confirm who is covering the net and who is backing up the baseline, then switch roles."
+        },
+        "ja": {
+          "watch": "ダブルスのサーブ側、レシーブ側、そしてパートナーが、サーブ・レシーブの局面でどのように移動し、コートをカバーしているかを観察する。",
+          "practice": "4人で交代しながら、最初の3打を12セット行う。その都度、プレーを止めて、誰が前衛を担当し、誰が後衛をカバーしているかを確認し、役割を交代する。"
+        },
+        "ko": {
+          "watch": "복식 경기에서 서브를 하는 선수, 리시브를 하는 선수, 그리고 파트너가 서브와 리시브 단계에서 어떻게 움직이며 코트를 커버하는지 관찰한다.",
+          "practice": "4명이 번갈아 가며 12세트의 첫 3타를 진행한다. 매번 멈춰서 누가 전장을 지키고 누가 후장을 보강하는지 확인한 뒤, 역할을 바꾼다."
+        }
+      }
+    },
+    "singles-high-serve": {
+      "code": "B07",
+      "ids": [
+        "3zNj3fhpwf0"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察正手高發球的放球、連續揮拍、出球高度與發球後的準備姿勢。",
+          "practice": "左右發球區各發 10 球，將羽球送往斜對角後場，記錄入界且落在後場目標區的次數。"
+        },
+        "en": {
+          "watch": "Observe the release, continuous swing, height of the shuttlecock, and post-serve stance for the forehand high serve.",
+          "practice": "Serve 10 shuttles from each side of the service court, aiming for the diagonal backcourt corner, and record the number of serves that land in bounds within the target area in the backcourt."
+        },
+        "ja": {
+          "watch": "フォアハンドの高サーブのリリース、連続したスイング、ボールの放出高さ、およびサーブ後の準備姿勢を観察する。",
+          "practice": "左右のサーブエリアからそれぞれ10球ずつ、斜め対角線のバックコートへボールを打ち込み、インでバックコートの目標エリアに落ちた回数を記録する。"
+        },
+        "ko": {
+          "watch": "포핸드 하이 서브의 샷 릴리스, 연속 스윙, 공의 높이, 서브 후 준비 자세를 관찰한다.",
+          "practice": "좌우 서브 구역에서 각각 10개씩 서브를 하여, 공을 대각선 후방 코트로 보내고, 인플레이이며 후방 목표 구역에 떨어진 횟수를 기록한다."
+        }
+      }
+    },
+    "forehand-backhand-grip-switch": {
+      "code": "B08",
+      "ids": [
+        "Wt01jO1mgjk"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察正反手交換時手指放鬆及拍柄在指間轉動的方式。",
+          "practice": "在身前低速交替正反手托羽球或擊球 3 組各 20 次，確認不用大幅轉動手腕也能切換拍面。"
+        },
+        "en": {
+          "watch": "Observe how your fingers relax and how the racket handle rotates between your fingers when switching between forehand and backhand strokes.",
+          "practice": "Alternate between forehand and backhand strokes to lift or hit the shuttlecock slowly in front of your body—3 sets of 20 repetitions each—to ensure you can switch the racket face without rotating your wrist significantly."
+        },
+        "ja": {
+          "watch": "フォアハンドとバックハンドを切り替える際、指をリラックスさせ、ラケットのグリップを指の間で回転させる様子を観察する。",
+          "practice": "体の前で、低速でフォアハンドとバックハンドを交互に使い、シャトルをトスしたり打ったりする動作を3セット（各20回）行い、手首を大きく回さなくてもラケット面を切り替えられることを確認する。"
+        },
+        "ko": {
+          "watch": "포핸드와 백핸드를 번갈아 가며 손가락을 이완하고 라켓 손잡이가 손가락 사이로 회전하는 방식을 관찰한다.",
+          "practice": "몸 앞에서 저속으로 포핸드와 백핸드를 번갈아 가며 셔틀콕을 리시브하거나 치는 동작을 3세트, 각 세트당 20회씩 수행하며, 손목을 크게 돌리지 않고도 라켓면을 전환할 수 있는지 확인한다."
+        }
+      }
+    },
+    "racket-face-soft-touch": {
+      "code": "B09",
+      "ids": [
+        "sM52YCczxrc"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察握拍轉換時拍面方向如何影響羽球的出射方向與目標落點。",
+          "practice": "設兩個小目標區，用輕力交替擊球 3 組各 10 次；每次只微調拍面角度，記錄命中數。"
+        },
+        "en": {
+          "watch": "Observe how the direction of the racket face affects the shuttlecock’s trajectory and landing point when changing grips.",
+          "practice": "Set up two small target areas and hit the shuttlecock alternately with light strokes—3 sets of 10 hits each; adjust the racket face angle only slightly each time and record the number of hits."
+        },
+        "ja": {
+          "watch": "ラケットのグリップを切り替える際、ラケット面の向きがシャトルの飛翔方向や着地点にどのように影響するかを観察する。",
+          "practice": "2つの小さなターゲットエリアを設定し、軽い力で交互に3セット（各10回）打つ。その際、ラケット面の角度をわずかに調整するのみとし、命中数を記録する。"
+        },
+        "ko": {
+          "watch": "라켓을 잡는 자세를 바꿀 때 라켓 면의 방향이 셔틀콕의 발사 방향과 목표 지점에 어떤 영향을 미치는지 관찰한다.",
+          "practice": "두 개의 작은 목표 구역을 설정하고, 가볍게 번갈아 가며 3세트씩 각 10회씩 공을 친다. 매번 라켓 면의 각도를 미세하게만 조정하고, 적중 횟수를 기록한다."
+        }
+      }
+    },
+    "forehand-clear-fundamentals": {
+      "code": "B10",
+      "ids": [
+        "5dIfqiscRsg"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "留意正手高遠球的側身準備、前上方觸球及揮拍完成後的回位。",
+          "practice": "同伴餵後場羽球 2 組各 10 次，以可控制的力量打到對場後半部，記錄深度及回位穩定度。"
+        },
+        "en": {
+          "watch": "Pay attention to the sideways stance for the forehand high clear, the forward-upward contact with the shuttlecock, and returning to your position after completing the swing.",
+          "practice": "Have a partner feed shuttlecocks to the backcourt—2 sets of 10 each—hitting them to the back half of the opponent’s court with controlled power, and record the depth and consistency of your return."
+        },
+        "ja": {
+          "watch": "フォアハンドのハイクリアの際、体を横向きに構える準備、前方上方のボールへのコンタクト、そしてスイング完了後のポジション戻りに注意する。",
+          "practice": "パートナーにバックコートを狙ったシャトルを2セット（各10回）打ってもらい、コントロールできる力でコート後半部に打ち込み、ボールの奥行きとポジション戻りの安定度を記録する。"
+        },
+        "ko": {
+          "watch": "포핸드 하이드롭 샷 시 몸의 방향 전환, 앞쪽 상단에서 공을 치는 동작, 그리고 라켓 스윙을 마친 후의 복귀 자세에 주의하십시오.",
+          "practice": "파트너가 백코트로 공을 보내주면 2세트씩 각 10회씩, 제어 가능한 힘으로 상대 코트 후반부로 공을 보내고, 공의 깊이와 복귀 자세의 안정성을 기록하십시오."
+        }
+      }
+    },
+    "forehand-backhand-net-shot": {
+      "code": "B11",
+      "ids": [
+        "TVNW9S7o0Bk"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "比較正手與反手放網的握拍、拍面及網前短動作，留意過網高度。",
+          "practice": "兩側前場各做 10 顆放網，保持穩定跨步，記錄落入前發球線內且低過網的次數。"
+        },
+        "en": {
+          "watch": "Compare the grip, racket face, and short movements at the net for forehand and backhand drop shots, paying attention to the height at which the shuttlecock clears the net.",
+          "practice": "Perform 10 drop shots from each side of the front court, maintaining a steady stride, and record the number of shots that land inside the front service line and below the net."
+        },
+        "ja": {
+          "watch": "フォアハンドとバックハンドのネットショットのグリップ、ラケット面、ネット前の短い動きを比較し、ネット越えの高さに注意する。",
+          "practice": "両サイドの前場でそれぞれ10球ずつネットショットを行い、安定したステップを保ちながら、前サーブライン内に落ち、かつネットより低い位置に収まった回数を記録する。"
+        },
+        "ko": {
+          "watch": "포핸드와 백핸드 네트 샷의 그립, 라켓 면, 네트 앞에서의 짧은 동작을 비교하고, 네트를 넘는 높이에 주의하세요.",
+          "practice": "양쪽 전방에서 각각 10회씩 네트 샷을 연습하며, 안정적인 발놀림을 유지하고, 전방 서브 라인 안쪽이자 네트 아래로 떨어지는 횟수를 기록하세요."
+        }
+      }
+    },
+    "four-week-badminton-practice-plan": {
+      "code": "B12",
+      "ids": [
+        "f9m_9FkVj5s"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察一週訓練主題、強度與休息的分配方式，思考如何依自己的能力調整。",
+          "practice": "制定四週計畫，每週記錄發球命中率、六點步伐與高遠球深度；以結果調整下一週主題。"
+        },
+        "en": {
+          "watch": "Observe how the weekly training themes, intensity, and rest periods are structured, and consider how to adjust them based on your own abilities.",
+          "practice": "Develop a four-week plan, and track your serve success rate, six-point footwork, and depth of your clear shots each week; use these results to adjust the focus for the following week."
+        },
+        "ja": {
+          "watch": "1週間の練習テーマ、強度、休息の配分方法を観察し、自分の能力に合わせてどのように調整すべきかを考える。",
+          "practice": "4週間の計画を立て、毎週サーブの成功率、6ポイントフットワーク、ハイクリアの深さを記録し、その結果に基づいて翌週のテーマを調整する。"
+        },
+        "ko": {
+          "watch": "일주일간의 훈련 주제, 강도 및 휴식 배분 방식을 관찰하고, 자신의 능력에 맞춰 어떻게 조정할지 고민해 본다.",
+          "practice": "4주 계획을 세우고, 매주 서브 성공률, 6점 스텝, 하이드롭의 깊이를 기록하며, 그 결과를 바탕으로 다음 주 주제를 조정한다."
+        }
+      }
+    },
+    "smash-block-defense-lesson": {
+      "code": "D01",
+      "ids": [
+        "u-diuyaBu9I"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察接殺準備姿勢、身前觸球、鬆握與穩定拍面如何控制擋網高度。",
+          "practice": "同伴以中低強度餵殺球，做 2 組各 10 次直線擋網；記錄低過網且能恢復準備的次數。"
+        },
+        "en": {
+          "watch": "Observe how the ready position for returning smashes, hitting the shuttlecock in front of the body, a loose grip, and a stable racket face control the height of the net return.",
+          "practice": "Have a partner feed smashes at medium-to-low intensity, and perform 2 sets of 10 straight-line net returns each; record the number of times the shuttlecock goes under the net and you are able to return to the ready position."
+        },
+        "ja": {
+          "watch": "スマッシュの受け身の姿勢、体の前でボールに触れること、ラケットを緩く握ること、そしてラケット面を安定させてネット越えの高さをコントロールする方法を観察する。",
+          "practice": "パートナーに中～低強度のスマッシュを打ってもらい、ストレートへのネット越えを2セット（各10回）行う。ネットより低く越えても、すぐに準備姿勢に戻れた回数を記録する。"
+        },
+        "ko": {
+          "watch": "스매시 대응 자세, 몸 앞쪽에서 공을 치는 방법, 라켓을 느슨하게 잡는 법, 라켓면을 안정적으로 유지하는 법을 관찰하여 네트 넘김 높이를 조절하는 방법을 익힌다.",
+          "practice": "파트너가 중저강도로 스매시를 넣어주면, 직선으로 네트 넘김을 2세트씩 각 10회씩 수행한다. 네트 아래로 넘어가면서도 준비 자세를 회복할 수 있었던 횟수를 기록한다."
+        }
+      }
+    },
+    "body-smash-defense": {
+      "code": "D02",
+      "ids": [
+        "urwBRjUYMdU"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察追身球防守時反手拍面在身體前方的準備，以及如何避免過大的揮拍。",
+          "practice": "同伴低速餵向腰部兩側及身體前方各 10 球，以短動作擋回並立即抬拍，再逐步提高速度。"
+        },
+        "en": {
+          "watch": "Observe the preparation of the backhand face in front of your body when defending against a body shot, and how to avoid an overly large swing.",
+          "practice": "Have a partner feed 10 slow shots to each side of your waist and 10 to the front of your body; block them back with a short motion and immediately raise your racket, then gradually increase the speed."
+        },
+        "ja": {
+          "watch": "ボディショットを防御する際、バックハンドのラケット面が体の前にある状態での構えと、スイングが大きくなりすぎないようにする方法を観察する。",
+          "practice": "パートナーに腰の両脇と体の前方へ、それぞれ10球ずつ低速でボールを打ってもらい、短い動作でブロックしてすぐにラケットを上げる練習を行い、徐々にスピードを上げていく。"
+        },
+        "ko": {
+          "watch": "몸 쪽으로 날아오는 공을 수비할 때 백핸드 라켓 면이 몸 앞쪽에 위치하도록 준비하는 자세와, 지나치게 큰 스윙을 피하는 방법을 관찰한다.",
+          "practice": "파트너가 허리 양쪽과 몸 앞쪽으로 각각 10개씩 저속으로 공을 보내주면, 짧은 동작으로 막아낸 후 즉시 라켓을 들어 올리고, 점차 속도를 높여간다."
+        }
+      }
+    },
+    "defensive-lift-lesson": {
+      "code": "D03",
+      "ids": [
+        "UXhneWqy0Zw"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察低位反手挑球的拍面、擊球位置與向上送球，如何創造回位時間。",
+          "practice": "同伴餵反手網前低球 2 組各 10 顆，將羽球挑至後場，記錄深度、入界和回位時間。"
+        },
+        "en": {
+          "watch": "Observe the racket face, contact point, and upward trajectory of a low backhand lift, and how to create time to recover.",
+          "practice": "Have a partner feed you 10 low backhand shots to the net in each of 2 sets; lift the shuttlecock to the backcourt, and record the depth, whether the shot is in bounds, and the time it takes to recover."
+        },
+        "ja": {
+          "watch": "低い位置からのバックハンド・リフトのラケット面、打点、そしてボールを上に送る動きを観察し、リカバリー時間をどう確保するかを学ぶ。",
+          "practice": "パートナーにバックハンドのネット前への低いボールを2セット（各10球）打ってもらい、ボールをバックコートへリフトし、深さ、イン・アウト、およびリカバリー時間を記録する。"
+        },
+        "ko": {
+          "watch": "낮은 위치의 백핸드 리프트 샷에서 라켓 면, 타구 위치 및 공을 위로 띄우는 방법을 관찰하여, 리커버리 시간을 확보하는 방법을 익힌다.",
+          "practice": "파트너가 백핸드 네트 앞쪽의 낮은 공을 2세트(각 10개)씩 보내주면, 배드민턴 공을 백코트로 리프트하여 깊이와 인바운드 여부, 리커버리 시간을 기록한다."
+        }
+      }
+    },
+    "forehand-and-cross-lifts": {
+      "code": "D04",
+      "ids": [
+        "ZDfaUrR0RY0"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察正手挑球的握拍、向上揮動及飛行高度，思考改打對角的角度與風險。",
+          "practice": "直線和對角正手挑球各 10 顆，優先確保高度與深度，比較兩方向入界率。"
+        },
+        "en": {
+          "watch": "Observe the grip, upward swing, and flight height of the forehand lift, and consider the angle and risks of switching to a cross-court shot.",
+          "practice": "Hit 10 forehand lifts down the line and 10 cross-court, prioritizing height and depth, and compare the in-court rates for both directions."
+        },
+        "ja": {
+          "watch": "フォアハンドのロブにおけるグリップ、上方向へのスイング、およびボールの飛行高度を観察し、対角線へのショットに切り替える際の角度とリスクについて考える。",
+          "practice": "ストレートと対角線のフォアハンドロブをそれぞれ10球ずつ打ち、高さと奥行きを優先して確保し、両方向のイン率を比較する。"
+        },
+        "ko": {
+          "watch": "포핸드 리프트의 그립, 위로 휘두르는 동작, 공의 비행 높이를 관찰하고, 대각선으로 치는 각도와 그에 따른 위험성을 고려해 본다.",
+          "practice": "직선과 대각선 포핸드 리프트를 각각 10개씩 치며, 우선 높이와 깊이를 확보하고, 두 방향의 인플레이 성공률을 비교한다."
+        }
+      }
+    },
+    "flat-drive-defense-lesson": {
+      "code": "D05",
+      "ids": [
+        "SmbzNq3LFPs"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察中場追身平抽時如何在身前處理來球、切換握法並保持準備。",
+          "practice": "同伴交替餵正反手平抽，3 組各 30 秒；記錄連續成功回擊及因揮拍太大而失誤的次數。"
+        },
+        "en": {
+          "watch": "Observe how to handle the shuttlecock in front of you when returning a cross-court drive from the midcourt, switch grips, and stay ready.",
+          "practice": "Have a partner alternate between feeding forehand and backhand drives; perform 3 sets of 30 seconds each; record the number of consecutive successful returns and the number of errors caused by an overly wide swing."
+        },
+        "ja": {
+          "watch": "コート中央での追いつきストロークの際、体の前でどのようにボールに対応し、グリップを切り替えながら準備態勢を保つかを観察する。",
+          "practice": "パートナーと交代でフォアハンド・バックハンドのストロークを打ち合い、3セット各30秒行う。連続して成功した回数と、スイングが大きすぎてミスした回数を記録する。"
+        },
+        "ko": {
+          "watch": "코트 중앙에서 상대를 따라가며 치는 평타를 받을 때, 몸 앞에서 공을 어떻게 처리하고, 그립을 바꾸며 준비 자세를 유지하는지 관찰한다.",
+          "practice": "파트너와 번갈아 가며 포핸드와 백핸드 평타를 받아치며, 3세트씩 각 30초씩 진행한다. 연속 성공 횟수와 라켓 스윙이 너무 커서 실수한 횟수를 기록한다."
+        }
+      }
+    },
+    "drive-defense-changing-tempo": {
+      "code": "D06",
+      "ids": [
+        "eAOYXhmpc94"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察反手平抽防守的短揮拍、拍面及收拍，辨認能控制的觸球位置。",
+          "practice": "每組先平抽三拍，再將合適的來球輕擋至前場；做 10 組，記錄變速時的落點和回位。"
+        },
+        "en": {
+          "watch": "Observe the short swing, racket face, and follow-through of the backhand flat drive defense to identify the contact points you can control.",
+          "practice": "In each set, start with three flat drives, then gently block suitable returns to the front court; perform 10 sets, noting the landing points and recovery positions when the pace changes."
+        },
+        "ja": {
+          "watch": "バックハンドのフラットディフェンスにおける短いスイング、ラケット面、およびラケットの戻り方を観察し、コントロールできるボールへの当たり位置を見極める。",
+          "practice": "各セット、まずフラットショットを3回打ち、その後、適切な返球を軽く前コートへブロックする。これを10セット行い、スピードが変わった際の着地点と元の位置への戻り方を記録する。"
+        },
+        "ko": {
+          "watch": "백핸드 플랫 드롭 수비 시의 짧은 라켓 스윙, 라켓 면, 라켓 회수 동작을 관찰하여 제어할 수 있는 타구 위치를 파악한다.",
+          "practice": "각 세트마다 먼저 플랫 드롭을 3회 친 후, 적절한 공을 가볍게 앞코트로 막아낸다. 10세트를 수행하며, 속도 변화 시의 낙점과 복귀 위치를 기록한다."
+        }
+      }
+    },
+    "defensive-clear-recovery": {
+      "code": "D07",
+      "ids": [
+        "PpEuZmHTVsM"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察高遠球的擊球高度與深度，留意如何利用飛行時間回到準備位置。",
+          "practice": "從後場打 2 組各 10 顆深高遠球，擊球後回中；同伴餵下一球，記錄是否來得及準備。"
+        },
+        "en": {
+          "watch": "Observe the height and depth of the high clear, and pay attention to how you can use the flight time to return to your ready position.",
+          "practice": "From the backcourt, hit 2 sets of 10 deep high clears each; return to the center after each shot. Your partner will feed you the next ball; note whether you have enough time to get ready."
+        },
+        "ja": {
+          "watch": "ハイクリアの打球の高さと奥行きを観察し、飛行時間を活用して準備位置に戻る方法に注意を払う。",
+          "practice": "バックコートから、奥行きのあるハイクリアを2セット（各10球）打ち、打球後は中央に戻る。パートナーが次のボールを供給し、準備が間に合うかどうかを記録する。"
+        },
+        "ko": {
+          "watch": "하이드롭 샷의 타구 높이와 깊이를 관찰하고, 비행 시간을 활용해 준비 자세로 돌아가는 방법을 유념한다.",
+          "practice": "후방에서 2세트(각 10개)의 깊은 하이드롭 샷을 치고, 타구 후 중앙으로 돌아온다. 파트너가 다음 공을 넣어주면, 준비할 시간이 충분한지 기록한다."
+        }
+      }
+    },
+    "deep-backhand-corner-recovery": {
+      "code": "D08",
+      "ids": [
+        "8QMCAK3O7FU"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察反手後場不同來球深度所需的轉身和步伐，留意擊球後的平衡及回位。",
+          "practice": "先做 10 次有時間的轉身步伐，再做 10 次較深來球回位；低強度開始，記錄能否站穩。"
+        },
+        "en": {
+          "watch": "Observe the turns and footwork required for different depths of backhand backcourt shots, and pay attention to balance and recovery after hitting the shuttlecock.",
+          "practice": "Start by performing 10 timed turns and footwork drills, followed by 10 recovery drills for deeper shots; begin at a low intensity and note whether you can maintain your balance."
+        },
+        "ja": {
+          "watch": "バックハンドのバックコートへの異なるボールの深さに対応するためのターンとフットワークを観察し、打球後のバランスとポジションへの戻り方に注意を払う。",
+          "practice": "まず、時間を計りながらターンとフットワークを10回行い、その後、より深いボールへのポジション戻りを10回行う。低強度から始め、しっかりと立ち続けられるかどうかを記録する。"
+        },
+        "ko": {
+          "watch": "백핸드 후방에서 날아오는 다양한 깊이의 공에 따라 필요한 회전 동작과 발놀림을 관찰하고, 타구 후의 균형과 위치 복귀에 유의한다.",
+          "practice": "먼저 시간을 두고 회전 동작과 발놀림을 10회 수행한 뒤, 공이 더 깊게 들어올 때의 위치 복귀를 10회 수행한다. 낮은 강도로 시작하여 균형을 잘 잡을 수 있는지 기록한다."
+        }
+      }
+    },
+    "block-and-counterattack": {
+      "code": "D09",
+      "ids": [
+        "P06HRqj-EqM"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀看挑球、殺球與擋網的連續練習，觀察擋短後怎樣準備迎接下一拍。",
+          "practice": "同伴餵殺球，先擋短再依回球高度決定上網或回中；重複 10 次，記錄守轉攻判斷。"
+        },
+        "en": {
+          "watch": "Watch a sequence of drills for drop shots, smashes, and net returns, and observe how to prepare for the next shot after returning a short shot.",
+          "practice": "Have a partner feed you smashes; first return a short shot, then decide whether to move to the net or return to the center based on the height of the return; repeat 10 times, and record your decisions on when to transition from defense to offense."
+        },
+        "ja": {
+          "watch": "ロブ、スマッシュ、ネット返しの連続練習を見て、ショート返しの後に次のショットにどう備えるかを観察する。",
+          "practice": "パートナーからスマッシュを打ってもらい、まずショート返しをし、返球の高さに応じてネットへ出るか中央へ返すかを決める。これを10回繰り返し、守りから攻めへの切り替えの判断を記録する。"
+        },
+        "ko": {
+          "watch": "리프트, 스매시, 네트 블록의 연속 연습을 관찰하고, 짧은 블록 후 다음 샷을 어떻게 준비해야 하는지 살펴봅니다.",
+          "practice": "파트너가 스매시를 보내면, 먼저 짧은 블록을 한 뒤 리턴 높이에 따라 네트 앞으로 나가거나 중앙으로 리턴합니다. 10회 반복하며, 수비에서 공격으로 전환하는 판단을 기록합니다."
+        }
+      }
+    },
+    "doubles-defense-to-offense": {
+      "code": "D10",
+      "ids": [
+        "QLYJJ3Jpzsc"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察雙打進攻輪轉時前後位置如何形成，思考防守轉進攻時誰應上網、誰應補位。",
+          "practice": "四人做 12 次定向回合，由左右防守開始；成功壓低球後改前後站位，停球檢查補位。"
+        },
+        "en": {
+          "watch": "Observe how front-back positioning is established during offensive rotations in doubles, and consider who should move to the net and who should cover the open space when transitioning from defense to offense.",
+          "practice": "Four players perform 12 directed rallies, starting with left and right defense; after successfully dropping the shuttlecock, switch to front-back positioning and stop to check coverage."
+        },
+        "ja": {
+          "watch": "ダブルスの攻撃時のローテーションにおいて、前後のポジションがどのように形成されるかを観察し、守備から攻撃に転じる際、誰がネットに上がり、誰がポジションをカバーすべきかを考える。",
+          "practice": "4人で12回の指定方向へのラリーを行い、左右の守備から始める。ボールを低く抑えることに成功したら、前後のポジションに変更し、ボールを止めてポジションのカバーを確認する。"
+        },
+        "ko": {
+          "watch": "복식 공격 로테이션 시 전후 위치가 어떻게 형성되는지 관찰하고, 수비에서 공격으로 전환할 때 누가 네트 앞으로 나가야 하고 누가 빈 자리를 메워야 하는지 생각해 본다.",
+          "practice": "4명이 12회 방향 지정 라운드를 진행하며, 좌우 수비에서 시작한다. 공을 낮게 성공적으로 처리한 후에는 전후 위치로 전환하고, 공을 멈춘 뒤 빈 자리 메우기를 확인한다."
+        }
+      }
+    },
+    "badminton-racket-guide": {
+      "code": "G01",
+      "ids": [
+        "RGmZUSIM3s8"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "比較球拍選擇框架中的打法、重量、平衡與中桿硬度，不只看品牌或外觀。",
+          "practice": "在相同球線條件下試揮兩把不同規格球拍，各做 10 次高遠球和平抽，記錄控制、回拍和舒適度。"
+        },
+        "en": {
+          "watch": "When choosing a racket, compare playing styles, weight, balance, and shaft stiffness—don’t just focus on the brand or appearance.",
+          "practice": "With the same string setup, test-swing two rackets with different specifications, hitting 10 high clears and 10 flat drives with each. Record your control, follow-through, and comfort level."
+        },
+        "ja": {
+          "watch": "ラケット選びの基準として、プレースタイル、重量、バランス、シャフトの硬さを比較し、ブランドや見た目だけで判断しないようにしましょう。",
+          "practice": "同じストリングの状態で、仕様の異なる2本のラケットを試し打ちし、それぞれ10回ずつハイクリアとストレートドライブを打ち、コントロール性、ラケットの戻り、打ち心地を記録しましょう。"
+        },
+        "ko": {
+          "watch": "라켓을 선택할 때는 브랜드나 외관뿐만 아니라, 플레이 스타일, 무게, 밸런스, 샤프트 강도를 종합적으로 비교해야 합니다.",
+          "practice": "동일한 스트링 조건에서 사양이 다른 두 개의 라켓을 각각 10회씩 하이드롭과 플랫 드라이브를 치며 테스트하고, 컨트롤, 라켓 반응, 착용감을 기록해 보세요."
+        }
+      }
+    },
+    "string-tension-guide": {
+      "code": "G02",
+      "ids": [
+        "Z09cXPwU-n0"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "留意球線類型和磅數如何改變擊球感、控制與容錯，不把較高磅數當成唯一目標。",
+          "practice": "在球拍建議磅數範圍內，以相近拍線與相同動作比較兩種磅數，記錄 10 球落點與手感。"
+        },
+        "en": {
+          "watch": "Pay attention to how different string types and tensions affect feel, control, and forgiveness; don’t treat higher tension as the only goal.",
+          "practice": "Within the recommended tension range for your racket, compare two different tensions using similar strings and the same stroke, and record the landing points and feel for 10 shots."
+        },
+        "ja": {
+          "watch": "ストリングの種類や張力（ポンド数）が、打球感、コントロール、ミスを許容する度合いにどのように影響するかに注意し、高い張力を唯一の目標としないこと。",
+          "practice": "ラケットの推奨張力範囲内で、似たようなストリングを使用し、同じスイング動作で2つの張力を比較し、10球の着地点と打球感を記録する。"
+        },
+        "ko": {
+          "watch": "스트링 종류와 장력이 타구감, 컨트롤, 실수 허용 범위에 어떤 영향을 미치는지 주의 깊게 관찰하고, 높은 장력만을 유일한 목표로 삼지 마십시오.",
+          "practice": "라켓의 권장 장력 범위 내에서, 비슷한 종류의 스트링과 동일한 동작으로 두 가지 장력을 비교하고, 10개의 공의 착지점과 타구감을 기록하십시오."
+        }
+      }
+    },
+    "racket-testing-checklist": {
+      "code": "G03",
+      "ids": [
+        "xj1kb8F33Rg"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察不同球拍的試打比較方式，留意如何使用相近的用球和動作比較，而非只看最強一球。",
+          "practice": "用兩把拍分別做高遠球、平抽、殺球各 10 次，每輪用同一批球與相同落區，填寫三輪紀錄。"
+        },
+        "en": {
+          "watch": "Observe how different rackets are compared during test hits, paying attention to how similar shuttlecocks and strokes are used for comparison, rather than focusing solely on the strongest shot.",
+          "practice": "Use two rackets to hit 10 high clears, 10 flat drives, and 10 smashes with each, using the same set of shuttlecocks and aiming for the same landing zone in each round. Record the results for three rounds."
+        },
+        "ja": {
+          "watch": "さまざまなラケットの試打比較方法を観察し、単に「最も強い一球」を見るだけでなく、類似したボールや動作を用いて比較する方法に注意を払う。",
+          "practice": "2本のラケットを使い、ハイクリア、フラットドライブ、スマッシュをそれぞれ10回ずつ行う。各ラウンドで同じボールを使用し、同じ着地エリアを狙い、3ラウンド分の記録を記入する。"
+        },
+        "ko": {
+          "watch": "다양한 라켓을 시타하며 비교하는 방법을 관찰하고, 단순히 가장 강력한 한 방만 보는 것이 아니라 비슷한 공과 동작을 사용하여 비교하는 방법에 주목하십시오.",
+          "practice": "두 개의 라켓으로 각각 하이드롭, 플랫 드라이브, 스매시를 10회씩 수행하고, 매 라운드마다 동일한 공을 사용하여 같은 착지 지점에 공을 보내며, 총 세 라운드의 기록을 작성하십시오."
+        }
+      }
+    },
+    "grip-wrap-and-fit": {
+      "code": "G04",
+      "ids": [
+        "1PAmO1HwQVQ"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察纏握把的起點、重疊寬度、拉力和收尾固定方式。",
+          "practice": "練習纏一支握把，檢查平整、無滑動；試揮正反手各 10 次，記錄厚度及止滑感。"
+        },
+        "en": {
+          "watch": "Observe the starting point of the grip wrap, the overlap width, the tension, and how the end is secured.",
+          "practice": "Practice wrapping a grip, checking that it lies flat and does not slip; try swinging 10 times with each hand (forehand and backhand), and note the thickness and grip feel."
+        },
+        "ja": {
+          "watch": "グリップの巻き始めの位置、重なり幅、締め付けの強さ、そして巻き終わりの固定方法を観察する。",
+          "practice": "グリップを1本巻いて練習し、表面が平らで滑らないかを確認する。フォアハンドとバックハンドをそれぞれ10回ずつ試打し、グリップの厚みと滑り止め感を記録する。"
+        },
+        "ko": {
+          "watch": "그립 테이프 감기의 시작점, 겹치는 폭, 당기는 힘, 마무리 고정 방식을 관찰한다.",
+          "practice": "그립 테이프를 한 개 감아 보고, 표면이 평평하고 미끄러지지 않는지 확인한다. 포핸드와 백핸드를 각각 10회씩 휘둘러 보고, 두께와 미끄럼 방지 효과를 기록한다."
+        }
+      }
+    },
+    "badminton-shoes-care": {
+      "code": "G05",
+      "ids": [
+        "Uvj4q5w0f14"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察挑選羽球鞋時對抓地、支撐、貼合和場地鞋底的考量。",
+          "practice": "穿平常打球的襪子試鞋，低速側移、急停與跨步各 5 次；打完清潔鞋底並通風晾乾。"
+        },
+        "en": {
+          "watch": "Considerations for traction, support, fit, and court-specific soles when selecting badminton shoes.",
+          "practice": "Try on the shoes with the socks you normally wear while playing; perform 5 repetitions each of slow lateral movements, sudden stops, and lunges. After playing, clean the soles and let the shoes air dry."
+        },
+        "ja": {
+          "watch": "バドミントンシューズを選ぶ際、グリップ力、サポート性、フィット感、およびコートに適したソールについて検討する。",
+          "practice": "普段プレーする際に履いているソックスを履いて試着し、低速でのサイドステップ、急停止、ステップをそれぞれ5回ずつ行う。プレー後は靴底をきれいに拭き、風通しの良い場所で乾かす。"
+        },
+        "ko": {
+          "watch": "배드민턴화를 고를 때 접지력, 지지력, 착용감, 코트용 밑창 등을 고려해야 합니다.",
+          "practice": "평소 배드민턴을 칠 때 신는 양말을 신고 신발을 신어보며, 저속 측면 이동, 급정지, 큰 걸음 내딛기를 각각 5회씩 해보세요. 연습이 끝나면 밑창을 깨끗이 닦고 통풍이 잘 되는 곳에서 말리세요."
+        }
+      }
+    },
+    "badminton-kit-care-routine": {
+      "code": "G06",
+      "ids": [
+        "unAE-0mBnNI"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "辨認練球實際需要的器材與可選配件，依課程目標安排自己的球袋。",
+          "practice": "建立球拍、羽球、球鞋、水壺、毛巾與替換衣物清單；練習前核對，練習後擦乾、分類並補齊。"
+        },
+        "en": {
+          "watch": "Identify the equipment and optional accessories actually needed for practice, and organize your own racket bag according to the lesson objectives.",
+          "practice": "Create a checklist of your racket, shuttlecocks, sneakers, water bottle, towel, and a change of clothes; check the items before practice, and after practice, dry them, sort them, and restock as needed."
+        },
+        "ja": {
+          "watch": "練習に実際に必要な用具とオプションの装備を見極め、カリキュラムの目標に合わせて自分の用具袋を準備する。",
+          "practice": "ラケット、シャトル、シューズ、水筒、タオル、着替えのリストを作成し、練習前に確認し、練習後は水気を拭き取り、分類して、不足がないか確認する。"
+        },
+        "ko": {
+          "watch": "실제 연습에 필요한 장비와 선택적 부속품을 파악하고, 수업 목표에 따라 자신의 라켓 가방을 준비한다.",
+          "practice": "라켓, 셔틀콕, 운동화, 물병, 수건, 여벌 옷 목록을 작성하고, 연습 전에 확인하며, 연습 후에는 물기를 닦아내고 분류한 뒤 빠진 것이 없는지 확인한다."
+        }
+      }
+    },
+    "shoe-fit-and-lacing-test": {
+      "code": "G07",
+      "ids": [
+        "Ags_6S0A1pc"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察鞋帶鎖跟綁法如何固定腳跟，注意不能綁到壓迫腳背或造成不適。",
+          "practice": "比較一般綁法和鎖跟綁法，安全地做 5 次小幅跨步與側移，記錄腳跟滑動及舒適度。"
+        },
+        "en": {
+          "watch": "Observe how the heel-lock lacing method secures the heel, making sure not to tie the laces so tightly that they press against the top of the foot or cause discomfort.",
+          "practice": "Compare the standard lacing method with the heel-lock method, then safely perform 5 small steps and side-to-side movements, noting any heel slippage and your level of comfort."
+        },
+        "ja": {
+          "watch": "ヒールロック結びが踵をどのように固定するかを観察し、足の甲を圧迫したり不快感を与えたりしないよう注意する。",
+          "practice": "通常の結び方とヒールロック結びを比較し、安全に5回、小さなステップと横移動を行い、踵のずれや快適さを記録する。"
+        },
+        "ko": {
+          "watch": "신발 끈의 ‘뒤꿈치 고정 방식’이 뒤꿈치를 어떻게 고정하는지 관찰하고, 발등을 조이거나 불편함을 유발하지 않도록 주의하십시오.",
+          "practice": "일반적인 묶는 방법과 ‘뒤꿈치 고정 방식’을 비교하여, 안전하게 5회씩 작은 보폭으로 앞으로 내딛기와 옆으로 이동 동작을 수행한 후, 뒤꿈치의 미끄러짐 정도와 착용감을 기록하십시오."
+        }
+      }
+    },
+    "feather-vs-nylon-shuttle": {
+      "code": "G08",
+      "ids": [
+        "TTp48N4N_N4"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "比較羽毛球和尼龍球的材質、飛行特性、耐用性以及不同練習場合的適用性。",
+          "practice": "同一球拍、同一場地，兩種球各打 10 顆高遠球及短發球；記錄落點、手感與磨損。"
+        },
+        "en": {
+          "watch": "Compare the materials, flight characteristics, durability, and suitability for different practice scenarios of feather and nylon shuttlecocks.",
+          "practice": "Using the same racket and court, hit 10 high clears and 10 drop shots with each type of shuttlecock; record the landing points, feel, and wear and tear."
+        },
+        "ja": {
+          "watch": "フェザーボールとナイロンボールの材質、飛行特性、耐久性、およびさまざまな練習場面での適性を比較する。",
+          "practice": "同じラケット、同じコートで、2種類のボールをそれぞれ10球ずつ、ハイクリアとショートサーブを打つ。着地点、打感、摩耗の程度を記録する。"
+        },
+        "ko": {
+          "watch": "깃털 공과 나일론 공의 재질, 비행 특성, 내구성 및 다양한 연습 상황에 대한 적합성을 비교한다.",
+          "practice": "같은 라켓과 같은 코트에서 두 종류의 공으로 각각 10개씩 하이드롭과 짧은 서브를 치고, 공이 떨어진 위치, 타구감, 마모 정도를 기록한다."
+        }
+      }
+    },
+    "compare-shuttle-speed": {
+      "code": "G09",
+      "ids": [
+        "eEhPWzSjW9E"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察 BWF 球速測試如何固定擊球位置、揮動方向與落點判定。",
+          "practice": "在同一場地按示範測兩款球，每款重複 5 次，記錄落點區域與場館條件，不以一次結果下結論。"
+        },
+        "en": {
+          "watch": "Observe how the BWF ball speed test determines the hitting position, swing direction, and landing point.",
+          "practice": "Test two types of shuttlecocks on the same court as demonstrated, repeating each type five times. Record the landing zones and court conditions; do not draw conclusions based on a single result."
+        },
+        "ja": {
+          "watch": "BWFのボール速度テストを参考に、打球位置、スイング方向、着地点の判定をどのように固定するかを観察する。",
+          "practice": "同じコートで、デモンストレーション通りに2種類のボールをテストし、それぞれ5回ずつ繰り返し、着地点のエリアとコートの状態を記録する。1回の結果だけで結論を出さないこと。"
+        },
+        "ko": {
+          "watch": "BWF 볼 속도 테스트를 통해 타구 위치, 스윙 방향 및 낙점 판정을 어떻게 고정하는지 관찰한다.",
+          "practice": "동일한 코트에서 시연에 따라 두 종류의 공을 테스트하고, 각 종류당 5회씩 반복하여 낙점 구역과 코트 조건을 기록하며, 한 번의 결과만으로 결론을 내리지 않는다."
+        }
+      }
+    },
+    "doubles-rotation-tactics": {
+      "code": "M01",
+      "ids": [
+        "zzAy9x4Q9pY"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察雙打前後進攻與左右防守站位變換，留意搭檔間距和誰負責下一拍。",
+          "practice": "觀看 10 個雙打回合，每次輪轉前暫停並預測兩位球員位置；到球場與搭檔重現三種情境。"
+        },
+        "en": {
+          "watch": "Observe the changes in offensive and defensive positioning—moving forward and backward, and left and right—in doubles play. Pay attention to the distance between partners and who is responsible for the next shot.",
+          "practice": "Watch 10 doubles rallies; pause before each rotation and predict the positions of both players; then go to the court and recreate three scenarios with your partner."
+        },
+        "ja": {
+          "watch": "ダブルスにおける前後の攻撃位置や左右の守備位置の変化を観察し、パートナーとの間隔や次のショットを担当する選手に注意を払う。",
+          "practice": "ダブルスのラリーを10回視聴し、ローテーションのたびに一時停止して2人の選手の位置を予測する。コートに出て、パートナーと3つのシチュエーションを再現する。"
+        },
+        "ko": {
+          "watch": "복식 경기에서 전후 공격과 좌우 수비 위치 변화를 관찰하고, 파트너 간의 간격과 다음 샷을 누가 담당할지 주의 깊게 살펴보세요.",
+          "practice": "복식 10회 랠리를 시청하며, 각 로테이션이 시작되기 전에 일시 정지하고 두 선수의 위치를 예측해 보세요. 코트에 나가 파트너와 함께 세 가지 상황을 재현해 보세요."
+        }
+      }
+    },
+    "doubles-first-three-shots": {
+      "code": "M02",
+      "ids": [
+        "nDNZGj30BBY",
+        "-e6Zilqb2Wk"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "先觀察短發球的落點與高度，再觀看雙打接發教學；記錄前三拍誰較早取得高擊球點。",
+          "practice": "四人輪流完成 12 組發球、接發、第三拍；每次停下記錄是否取得主動及下一拍站位。"
+        },
+        "en": {
+          "watch": "First, observe the landing point and height of the short serve, then watch the doubles return tutorial; note who achieves a higher contact point first during the first three shots.",
+          "practice": "The four players take turns completing 12 sets of serve, return, and third shot; pause after each set to record whether they gained the initiative and their positioning for the next shot."
+        },
+        "ja": {
+          "watch": "まずショートサーブの着地点と高さを観察し、次にダブルスのレシーブレッスンを確認する。最初の3打のうち、どちらが先に高い打点を得られたかを記録する。",
+          "practice": "4人で順番に、サーブ・レシーブ・3打目を12セット行う。その都度、プレーを止めて、主導権を握れたかどうかと次の打球時のポジションを記録する。"
+        },
+        "ko": {
+          "watch": "먼저 짧은 서브의 착지점과 높이를 관찰한 뒤, 복식 리시브 강좌를 시청하세요. 첫 세 샷 중 누가 더 빨리 높은 타구 지점을 확보하는지 기록하세요.",
+          "practice": "4명이 번갈아 가며 12세트의 서브, 리시브, 세 번째 샷을 수행하세요. 매번 멈출 때마다 주도권을 확보했는지 여부와 다음 샷을 위한 위치를 기록하세요."
+        }
+      }
+    },
+    "singles-shot-pattern-reading": {
+      "code": "M03",
+      "ids": [
+        "rd1npEVBxAA"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察單打回合落點、深淺與節奏變化，辨認是哪一拍迫使對手離開準備位置。",
+          "practice": "選 10 個回合，每次在第三拍後暫停，預測可利用的空檔，再看後續並寫下實際結果。"
+        },
+        "en": {
+          "watch": "Observe the landing points, depth, and rhythm changes in singles rallies, and identify which shot forces your opponent out of position.",
+          "practice": "Select 10 rallies. Pause after the third shot in each rally, predict the open spaces you can exploit, then watch the rest of the rally and write down the actual results."
+        },
+        "ja": {
+          "watch": "シングルスのラリーにおける着地位置、深さ、リズムの変化を観察し、どのショットが相手を準備位置から追い出したのかを特定する。",
+          "practice": "10回のラリーを選び、毎回3打目終了後に一時停止し、利用できる隙を予測してから、その後の展開を見て実際の結果を書き留める。"
+        },
+        "ko": {
+          "watch": "단식 랠리의 착지점, 깊이와 얕음, 리듬 변화를 관찰하여, 어떤 샷이 상대를 준비 위치에서 벗어나게 했는지 파악한다.",
+          "practice": "10개의 랠리를 선정하고, 매번 세 번째 샷 후에 일시 정지한 뒤, 활용할 수 있는 빈틈을 예측한 다음, 후속 상황을 지켜보며 실제 결과를 기록한다."
+        }
+      }
+    },
+    "badminton-scoring-guide": {
+      "code": "M04",
+      "ids": [
+        "UyLIi-TbcFc"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "以影片的 21 分制示例辨認得分、發球方與換邊；實際觀賽以該賽事當時的規則為準。",
+          "practice": "挑一場完整回放，連續記錄 10 球的比分、發球方及場區，與畫面計分板逐球比對。"
+        },
+        "en": {
+          "watch": "Use the 21-point system example in the video to identify points scored, the serving team, and when sides change; when watching actual matches, refer to the rules in effect at the time of the match.",
+          "practice": "Select a full match replay and record the score, serving team, and court side for 10 consecutive rallies, comparing them point by point with the on-screen scoreboard."
+        },
+        "ja": {
+          "watch": "動画の21点制の例を用いて、得点、サーブ権、コートチェンジを見分ける練習を行います。実際の試合観戦においては、その試合当時のルールに準じます。",
+          "practice": "試合のフルリプレイを1つ選び、10球分のスコア、サーブ権、コート側を連続して記録し、画面上のスコアボードと1球ずつ照らし合わせて確認します。"
+        },
+        "ko": {
+          "watch": "영상 속 21점제 예시를 통해 득점, 서브권, 코트 변경을 파악하세요. 실제 경기를 관람할 때는 해당 경기의 당시 규정을 따르십시오.",
+          "practice": "전체 하이라이트 영상 중 하나를 골라, 10개의 랠리 동안 점수, 서브권, 코트 위치를 연속적으로 기록하고, 화면의 점수판과 랠리마다 대조해 보세요."
+        }
+      }
+    },
+    "match-observation-notebook": {
+      "code": "M05",
+      "ids": [
+        "yfs6ScaazjI"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察影片提出的發接發、對手強弱點、心態和自身表現等複盤面向。",
+          "practice": "挑 10 個完整回合，記錄時間戳、前三拍、得分原因與一個可調整動作，完成一頁比賽筆記。"
+        },
+        "en": {
+          "watch": "Analyze the video to review aspects such as serve-and-return exchanges, your opponent’s strengths and weaknesses, mental approach, and your own performance.",
+          "practice": "Select 10 complete rallies, record the timestamps, the first three shots, the reason for the point, and one action to adjust, and complete one page of match notes."
+        },
+        "ja": {
+          "watch": "動画から、サーブとリターン、相手の強み・弱み、メンタル、自身のプレーなど、振り返りのポイントを洗い出す。",
+          "practice": "10の完全なラリーを選び、タイムスタンプ、最初の3打、得点理由、改善すべき動作を1つずつ記録し、1ページの試合ノートを完成させる。"
+        },
+        "ko": {
+          "watch": "영상을 통해 서브와 리시브, 상대의 강점과 약점, 심리 상태, 자신의 경기력 등 분석해야 할 측면을 파악한다.",
+          "practice": "완전한 10개의 랠리를 선정하여 타임스탬프, 첫 세 번의 샷, 득점 이유, 그리고 개선할 수 있는 동작 하나를 기록하고, 한 페이지 분량의 경기 노트를 완성한다."
+        }
+      }
+    },
+    "rally-tagging-and-error-types": {
+      "code": "M06",
+      "ids": [
+        "cabUCGvLgjs"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "注意影片如何從重複出現的失誤位置、球路與前三拍找規律，而非只看精彩球。",
+          "practice": "挑 12 個回合，標記主動失誤、被迫失誤及得分情境；統計最常見類型並設定下次練習。"
+        },
+        "en": {
+          "watch": "Pay attention to how the video identifies patterns based on recurring error locations, shot trajectories, and the first three strokes—rather than just focusing on spectacular shots.",
+          "practice": "Select 12 rallies, mark them as unforced errors, forced errors, or points scored; tally the most common types and use that to plan your next practice session."
+        },
+        "ja": {
+          "watch": "動画を見る際は、見どころのあるプレーだけでなく、繰り返し発生するミスの位置、ボールの軌道、最初の3打からパターンを見出すことに注意してください。",
+          "practice": "12のラリーを選び、自発的なミス、やむを得ないミス、得点シーンにマークを付け、最も多いタイプを統計的に分析し、次回の練習メニューを決定してください。"
+        },
+        "ko": {
+          "watch": "영상에서 화려한 샷만 보는 것이 아니라, 반복적으로 나타나는 실수 위치, 샷의 궤적, 그리고 첫 세 번의 샷에서 어떤 패턴이 있는지 파악하는 데 주의를 기울이세요.",
+          "practice": "12개의 랠리를 골라, 자발적 실수, 강제 실수, 득점 상황을 표시하고, 가장 흔한 유형을 통계로 정리한 뒤 다음 연습 계획을 세우세요."
+        }
+      }
+    },
+    "score-pressure-decision-drill": {
+      "code": "M07",
+      "ids": [
+        "GC3GRKNYKa0"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "從比賽心理與應對較強對手的教學，找出在壓力下保持專注和清楚選球的方法。",
+          "practice": "從接近平分的比分開始進行 6 個短回合，每球前確立明確戰術目標；賽後記錄選球理由及結果。"
+        },
+        "en": {
+          "watch": "Through lessons on match psychology and strategies for facing stronger opponents, learn how to stay focused and make clear shot selections under pressure.",
+          "practice": "Start with a score close to deuce and play six short rallies, establishing a clear tactical goal before each shot; after the match, record the reasoning behind your shot selections and the results."
+        },
+        "ja": {
+          "watch": "試合におけるメンタル面や強敵への対処法を学び、プレッシャー下でも集中力を保ち、的確なショット選択を行う方法を見出します。",
+          "practice": "接戦のスコアから始め、6回の短いラリーを行います。各ショットの前に明確な戦術目標を設定し、試合後にはショットの選択理由と結果を記録します。"
+        },
+        "ko": {
+          "watch": "경기 심리 및 강력한 상대에 대처하는 방법을 통해, 압박 속에서도 집중력을 유지하고 명확하게 샷을 선택하는 방법을 찾아봅니다.",
+          "practice": "점수 차이가 거의 나지 않는 상황에서 6개의 짧은 세트를 진행하며, 매 샷 전에 명확한 전술적 목표를 설정하고, 경기 후 샷 선택의 이유와 결과를 기록합니다."
+        }
+      }
+    },
+    "turn-match-video-into-drill": {
+      "code": "M08",
+      "ids": [
+        "nTL8uUlb4fo"
+      ],
+      "notes": {
+        "zh": {
+          "watch": "觀察教練分析球友比賽影片時如何辨認重複出現的站位或技術問題。",
+          "practice": "從一場回放選一個重複問題，記錄三個時間點，設計兩組各 10 球練習，記錄改善前後成功率。"
+        },
+        "en": {
+          "watch": "Observe how your coach identifies recurring positioning or technical issues when analyzing match videos of fellow players.",
+          "practice": "Select one recurring issue from a match replay, note three specific moments, design two sets of 10-shot drills, and record the success rates before and after the improvements."
+        },
+        "ja": {
+          "watch": "コーチがプレーヤーの試合映像を分析する際、繰り返し現れるポジションや技術的な問題点をどのように見極めているかを観察する。",
+          "practice": "リプレイ映像から繰り返し見られる問題点を1つ選び、3つのタイミングを記録し、それぞれ10球ずつの練習メニューを2種類考案し、改善前後の成功率を記録する。"
+        },
+        "ko": {
+          "watch": "코치가 선수들의 경기 영상을 분석할 때, 반복적으로 나타나는 포지션이나 기술적 문제를 어떻게 파악하는지 관찰한다.",
+          "practice": "한 경기의 리플레이에서 반복되는 문제 하나를 골라 세 가지 시점을 기록하고, 각각 10구씩 두 세트의 연습을 설계한 뒤, 개선 전후의 성공률을 기록한다."
+        }
+      }
+    }
+  }
+}
