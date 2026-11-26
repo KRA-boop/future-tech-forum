@@ -85,7 +85,7 @@ def category(record):
     return CODE_CATEGORY[code.group(1)[0]], code.group(1)
 
 def social():
-    return '<footer class="social-links"><a href="https://www.instagram.com/kraven_hun/"><img src="https://yurally.wordpress.com/wp-content/uploads/2026/11/yurally-instagram.png" alt="Instagram"></a><a href="https://www.threads.com/@kraven_hun"><img src="https://yurally.wordpress.com/wp-content/uploads/2026/11/yurally-threads.png" alt="Threads"></a></footer>'
+    return '<footer class="social-links"><a href="https://www.instagram.com/kraven_hun/" target="_blank" rel="noopener noreferrer"><img src="https://yurally.wordpress.com/wp-content/uploads/2026/11/yurally-instagram.png" alt="Instagram"></a><a href="https://www.threads.com/@kraven_hun" target="_blank" rel="noopener noreferrer"><img src="https://yurally.wordpress.com/wp-content/uploads/2026/11/yurally-threads.png" alt="Threads"></a></footer>'
 
 def navigation(lang, slug=None, selected=None):
     t = TEXT[lang]
