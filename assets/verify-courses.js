@@ -22,11 +22,12 @@
     await Promise.all(finished);
     for (let i = 0; i < 100 && element.hasAttribute('data-animating'); i++) await delay(20);
   };
-  async function verify(item, frame) {
+  const coursePath = href => { const url = new URL(href, location.href); return url.origin + url.pathname.replace(/\/$/, ''); };
+  async function verify(item, frame, nativeCoursePaths) {
     await new Promise((resolve, reject) => {
       const timer = setTimeout(() => reject(Error('課程載入逾時')), 25000);
       frame.onload = () => { clearTimeout(timer); resolve(); };
-      frame.src = item.url + '?verification=20261120';
+      frame.src = item.url + '?verification=20261128-selfcheck-route-1';
     });
     const doc = frame.contentDocument;
     const win = frame.contentWindow;
@@ -42,6 +43,9 @@
     assert(!summary.querySelector('a') && !summary.closest('a'), '題目包含跳頁連結');
     assert(summary.textContent.trim() === item.question.trim(), '題目與原課程不符');
     assert(card.dataset.disclosureReady === 'true', '未載入動畫');
+    assert(!card.open, '初始自我檢核未收合');
+    const legacy = [...doc.querySelectorAll('.lesson-body a[href]')].find(a => a.href.startsWith('https://yurally.wordpress.com/category/') || nativeCoursePaths.has(coursePath(a.href)));
+    assert(!legacy, '課程連結仍指向無動畫 WordPress 原生路徑：' + (legacy?.href || ''));
     assert(doc.querySelector('#self-check').nextElementSibling === card, '檢核未位於課程原處');
     const switches = [...doc.querySelectorAll('.languages a')];
     assert(switches.length === 4 && switches.every(a => new URL(a.href).pathname.endsWith('/' + item.slug + '/')), '切換語言未對應同一課程');
@@ -62,8 +66,15 @@
     const openHeight = card.getBoundingClientRect().height;
     assert(card.open && openHeight > closedHeight, '未完成展開');
     summary.click();
+    const closingAnimations = card.getAnimations({ subtree: true });
+    const closingKeys = closingAnimations.flatMap(a => a.effect.getKeyframes());
+    assert(closingAnimations.length === 3 && closingAnimations.every(a => a.effect.getTiming().duration === 680), '收合動畫數量或速度不一致');
+    assert(closingKeys.some(k => k.clipPath && k.clipPath.includes('100%')), '收合缺少橫向揭幕');
+    assert(closingKeys.some(k => k.boxShadow && /255, 198, 75/.test(k.boxShadow)), '收合缺少金色光圈');
     sample(card, 170);
     assert(card.getBoundingClientRect().height > closedHeight && card.getBoundingClientRect().height < openHeight, '收合不是平滑過渡');
+    const closingOpacity = Number(win.getComputedStyle(answer).opacity);
+    assert(closingOpacity > 0 && closingOpacity < 1, '收合缺少平滑淡出');
     await settle(card);
     assert(!card.open && Math.abs(card.getBoundingClientRect().height - closedHeight) < 2, '未完成收合');
     summary.click(); sample(card, 160); summary.click(); sample(card, 80); summary.click();
@@ -79,12 +90,13 @@
     menu.querySelector('summary').click(); await settle(menu);
     assert(!menu.open, '分類選單未平滑收合');
     assert(doc.documentElement.scrollWidth <= win.innerWidth + 1, '頁面水平溢位');
-    return { lang: item.lang, slug: item.slug, viewport: win.innerWidth, checks: 23 };
+    return { lang: item.lang, slug: item.slug, viewport: win.innerWidth, checks: 29 };
   }
   button.addEventListener('click', async () => {
     button.disabled = true;
     result.dataset.status = 'running';
     const rows = await fetch('./manifest.json?v=20261120-gold-1').then(r => r.json());
+    const nativeCoursePaths = new Set(rows.map(row => coursePath(row.wordpress_url)));
     let next = 0, complete = 0, passed = 0;
     const failed = [];
     const outcomes = [];
@@ -97,7 +109,7 @@
       while (next < rows.length) {
         const item = rows[next++];
         let error;
-        try { outcomes.push(await verify(item, frame)); passed++; }
+        try { outcomes.push(await verify(item, frame, nativeCoursePaths)); passed++; }
         catch (e) { error = e.message; failed.push({ lang: item.lang, slug: item.slug, error }); }
         complete++;
         const li = document.createElement('li');
@@ -111,6 +123,6 @@
     await Promise.all([0, 1, 2, 3].map(worker));
     result.dataset.status = failed.length ? 'failed' : 'passed';
     result.dataset.report = JSON.stringify({ total: rows.length, passed, failed, outcomes });
-    result.textContent = failed.length ? `驗證未全部通過：${failed.length} 頁` : `${passed} / ${rows.length} 全部通過：四語課程模板、原位展開與收合、金色光圈、橫向揭幕及分類下拉皆已驗證。`;
+    result.textContent = failed.length ? `驗證未全部通過：${failed.length} 頁` : `${passed} / ${rows.length} 全部通過：四語課程模板、原位展開與收合、金色光圈、橫向揭幕、分類下拉及所有課程連結皆已驗證。`;
   });
 })();

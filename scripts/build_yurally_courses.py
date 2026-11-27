@@ -20,6 +20,22 @@ TEXT = {
 }
 CATEGORIES = ['basics', 'attack', 'defense', 'gear', 'match']
 CODE_CATEGORY = dict(zip('BADGM', CATEGORIES))
+LEGACY_CATEGORY_ANCHORS = {
+    '/category/badminton-skills/defense-skills/clear-and-recover': ('defense', 'clear'),
+    '/category/badminton-skills/defense-skills/drive-defense': ('defense', 'drive-defense'),
+    '/category/badminton-skills/defense-skills/defensive-lift': ('defense', 'lift'),
+    '/category/badminton-skills/defense-skills/smash-block-defense': ('defense', 'block'),
+    '/category/badminton-skills/attack-skills/attacking-drive': ('attack', 'drive'),
+    '/category/badminton-skills/attack-skills/drop-shot': ('attack', 'drop'),
+    '/category/badminton-skills/attack-skills/net-kill': ('attack', 'net-kill'),
+    '/category/badminton-skills/attack-skills/smash': ('attack', 'smash'),
+    '/category/badminton-skills/footwork': ('basics', 'footwork'),
+    '/category/match-watch/rules-spectating': ('match', 'rules'),
+    '/category/match-watch/match-tactics': ('match', 'tactics'),
+    '/category/gear-guides/rackets-strings': ('gear', 'rackets'),
+    '/category/gear-guides/shoes-care': ('gear', 'shoes'),
+    '/category/badminton-skills/serve-return': ('basics', 'serve'),
+}
 records = json.loads((ROOT / 'data/yurally-courses-source.json').read_text())
 assert len(records) == 196
 by_key = {(r['lang'], r['slug']): r for r in records}
@@ -38,10 +54,14 @@ def directory_url(lang, category=None):
 def home(lang):
     return 'https://yurally.wordpress.com/' + ('' if lang == 'zh' else lang + '/')
 
-def rewrite_link(match):
+def rewrite_link(match, source_lang=None):
     value = html.unescape(match.group(1))
     parsed = urlsplit(value)
     if parsed.hostname == 'yurally.wordpress.com':
+        legacy = LEGACY_CATEGORY_ANCHORS.get(parsed.path.rstrip('/'))
+        if legacy and source_lang in LANGS:
+            category_slug, anchor = legacy
+            return 'href="' + esc(home(source_lang) + category_slug + '-lessons/#' + anchor) + '"'
         target = urls.get(parsed.path.rstrip('/'))
         if target:
             return 'href="' + esc(target + ('#' + parsed.fragment if parsed.fragment else '')) + '"'
@@ -78,7 +98,7 @@ def body(record):
     label = TEXT[record['lang']]['selfcheck']
     text, count = re.subn(r'<h2\b[^>]*id="self-check"[^>]*>.*?</h2>', '<h2 id="self-check">' + label + '</h2>', text, count=1, flags=re.S)
     assert count == 1, record['id']
-    rendered = add_video_html(re.sub(r'href="([^"]+)"', rewrite_link, text), record['slug'], record['lang'])
+    rendered = add_video_html(re.sub(r'href="([^"]+)"', lambda m: rewrite_link(m, record['lang']), text), record['slug'], record['lang'])
     cat, _ = category(record)
     return return_to_category(rendered, record['lang'], cat)
 
