@@ -62,17 +62,19 @@
     const id = src.match(/\/embed\/([A-Za-z0-9_-]{11})/)?.[1];
     const content = locale.videos[id];
     if (!content || figure.nextElementSibling?.classList.contains('yurally-video-explanation')) continue;
-    const card = document.createElement('section');
+    const card = document.createElement('details');
     card.className = 'yurally-video-explanation';
-    card.style.cssText = 'margin:12px 0 20px;padding:18px;background:#0c3441;color:#f3fafb;border:1px solid #28505a;border-radius:12px';
-    const h = document.createElement('h3'); h.textContent = locale.title;
-    h.style.cssText = 'margin:0 0 10px;color:#8de2d4;font-size:19px;font-weight:650;line-height:1.4';
+    card.style.cssText = 'margin:12px 0 20px;background:#0c3441;color:#f3fafb;border:1px solid #28505a;border-radius:12px;overflow:hidden';
+    const h = document.createElement('summary'); h.textContent = locale.title;
+    h.style.cssText = 'color:#8de2d4;font-size:19px;font-weight:650;line-height:1.4;cursor:pointer;padding:16px';
+    const answer = document.createElement('div'); answer.className = 'answer';
     const note = document.createElement('p'); note.textContent = locale.note;
     note.style.cssText = 'margin:0 0 14px;color:#bed2d7;font-size:13px;line-height:1.6';
-    card.append(h,note);
+    card.append(h,answer); answer.append(note);
     const lines = content.split(/(?<=[。！？])|(?<=[.!?])\s+/).filter(line => line.trim());
-    for (const line of lines) { const p = document.createElement('p'); p.textContent=line.trim(); p.style.cssText='margin:0 0 12px;font-size:16px;line-height:1.8'; card.append(p); }
-    card.lastElementChild.style.marginBottom='0';
+    for (const line of lines) { const p = document.createElement('p'); p.textContent=line.trim(); p.style.cssText='margin:0 0 12px;font-size:16px;line-height:1.8'; answer.append(p); }
+    answer.lastElementChild.style.marginBottom='0';
     figure.after(card);
   }
+  window.YuRallyDisclosures?.init(main);
 })();
