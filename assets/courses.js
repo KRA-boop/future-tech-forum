@@ -33,3 +33,17 @@
   }
   for (const group of groups) lesson.append(group);
 })();
+
+// Localized YuRally wordmark on the standalone lesson pages.
+(() => {
+  const main = document.querySelector('main[data-course][data-language]');
+  if (!main || main.querySelector('.yurally-course-brand')) return;
+  const names = {zh:'羽你同行 YuRally', en:'Rally Together YuRally', ja:'羽根とともに YuRally', ko:'배드민턴과 함께 YuRally'};
+  const language = main.dataset.language;
+  const brand = document.createElement('a');
+  brand.className = 'yurally-course-brand';
+  brand.href = 'https://yurally.wordpress.com/' + (language === 'zh' ? '' : language + '/');
+  brand.textContent = names[language] || names.zh;
+  brand.style.cssText = 'display:inline-block;color:#8de2d4;font-size:24px;font-weight:650;line-height:1.3;text-decoration:none';
+  main.prepend(brand);
+})();
